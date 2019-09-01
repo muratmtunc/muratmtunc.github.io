@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gurdal Ertek | Academic</title>
+    <link>https://muratmtunc.github.io/authors/gurdal-ertek/</link>
+      <atom:link href="https://muratmtunc.github.io/authors/gurdal-ertek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gurdal Ertek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://muratmtunc.github.io/img/icon-192.png</url>
+      <title>Gurdal Ertek</title>
+      <link>https://muratmtunc.github.io/authors/gurdal-ertek/</link>
+    </image>
+    
+    <item>
+      <title>New Knowledge in Strategic Management through Visually Mining Semantic Networks</title>
+      <link>https://muratmtunc.github.io/publication/new_knowledge_in_strategic_management/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/new_knowledge_in_strategic_management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Mining of Project Management Data An Analysis of Applied Research Studies</title>
+      <link>https://muratmtunc.github.io/publication/data_mining_of_project_management/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/data_mining_of_project_management/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Zheng | Academic</title>
+    <link>https://muratmtunc.github.io/authors/eric-zheng/</link>
+      <atom:link href="https://muratmtunc.github.io/authors/eric-zheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eric Zheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://muratmtunc.github.io/img/icon-192.png</url>
+      <title>Eric Zheng</title>
+      <link>https://muratmtunc.github.io/authors/eric-zheng/</link>
+    </image>
+    
+    <item>
+      <title>Secrets to Survival of Blockchain Projects</title>
+      <link>https://muratmtunc.github.io/publication/secrets-to-survival-of-blockchain-projects/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/secrets-to-survival-of-blockchain-projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

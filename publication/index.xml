@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Academic</title>
+    <link>https://muratmtunc.github.io/publication/</link>
+      <atom:link href="https://muratmtunc.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://muratmtunc.github.io/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>https://muratmtunc.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Secrets to Survival of Blockchain Projects</title>
+      <link>https://muratmtunc.github.io/publication/secrets-to-survival-of-blockchain-projects/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/secrets-to-survival-of-blockchain-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Product Reviews - Is a Finer-Grained Rating Scheme Superior to a Coarser One?</title>
+      <link>https://muratmtunc.github.io/publication/online-product-reviews/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/online-product-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-Sided Adverse Selection and Bilateral Reviews in Sharing Economy</title>
+      <link>https://muratmtunc.github.io/publication/two-sided-adverse-selection/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/two-sided-adverse-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-dimensional versus Multi-dimensional Product Ratings in Online Marketplaces for Experience Goods</title>
+      <link>https://muratmtunc.github.io/publication/sd_vs_md/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/sd_vs_md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Knowledge in Strategic Management through Visually Mining Semantic Networks</title>
+      <link>https://muratmtunc.github.io/publication/new_knowledge_in_strategic_management/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/new_knowledge_in_strategic_management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association Analysis of Supply Chain Risk and Company Sales</title>
+      <link>https://muratmtunc.github.io/publication/supply_chain_risk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/supply_chain_risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Mining of Project Management Data An Analysis of Applied Research Studies</title>
+      <link>https://muratmtunc.github.io/publication/data_mining_of_project_management/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/data_mining_of_project_management/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
