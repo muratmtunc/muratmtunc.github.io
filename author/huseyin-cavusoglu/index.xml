@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Huseyin Cavusoglu | Murat M. Tunc</title>
+    <link>https://muratmtunc.github.io/author/huseyin-cavusoglu/</link>
+      <atom:link href="https://muratmtunc.github.io/author/huseyin-cavusoglu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Huseyin Cavusoglu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - Murat M. Tunc</copyright><lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://muratmtunc.github.io/author/huseyin-cavusoglu/avatar_hu37a70ece33f0ea75cfef276b86464dde_32993_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Huseyin Cavusoglu</title>
+      <link>https://muratmtunc.github.io/author/huseyin-cavusoglu/</link>
+    </image>
+    
+    <item>
+      <title>Two-Sided Adverse Selection and Bilateral Reviews in Sharing Economy</title>
+      <link>https://muratmtunc.github.io/publication/preprint/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/preprint/</guid>
+      <description>&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+</description>
+    </item>
+    
+  </channel>
+</rss>
