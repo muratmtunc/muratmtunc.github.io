@@ -2,136 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Academic</title>
-    <link>https://muratmtunc.github.io/authors/</link>
-      <atom:link href="https://muratmtunc.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://academic-demo.netlify.app/authors/</link>
+      <atom:link href="https://academic-demo.netlify.app/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://muratmtunc.github.io/img/icon-192.png</url>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Authors</title>
-      <link>https://muratmtunc.github.io/authors/</link>
+      <link>https://academic-demo.netlify.app/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>https://muratmtunc.github.io/authors/admin/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a PhD candidate in Information Systems at Jindal School of Management, University of Texas at Dallas. My main research interests are online platforms, sharing economy, blockchain and smart contracts. In my spare time, I enjoy playing my guitar, having fun with my friends and playing Mario Kart in Nintendo Switch.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Eric Zheng</title>
-      <link>https://muratmtunc.github.io/authors/eric-zheng/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/authors/eric-zheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hasan Cavusoglu</title>
-      <link>https://muratmtunc.github.io/authors/hasan-cavusoglu/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/authors/hasan-cavusoglu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Huseyin Cavusoglu</title>
-      <link>https://muratmtunc.github.io/authors/huseyin-cavusoglu/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/authors/huseyin-cavusoglu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Srinivasan Raghunathan</title>
-      <link>https://muratmtunc.github.io/authors/srinivasan-raghunathan/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/authors/srinivasan-raghunathan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gul Tokdemir</title>
-      <link>https://muratmtunc.github.io/authors/gul-tokdemir/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/authors/gul-tokdemir/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gurdal Ertek</title>
-      <link>https://muratmtunc.github.io/authors/gurdal-ertek/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/authors/gurdal-ertek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mete Sevinc</title>
-      <link>https://muratmtunc.github.io/authors/mete-sevinc/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/authors/mete-sevinc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alexandru Valcov</title>
-      <link>https://muratmtunc.github.io/authors/alexandru-valcov/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/authors/alexandru-valcov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Allan N. Zhang</title>
-      <link>https://muratmtunc.github.io/authors/allan-n.-zhang/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/authors/allan-n.-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Allan Nengsheng Zhang</title>
-      <link>https://muratmtunc.github.io/authors/allan-nengsheng-zhang/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/authors/allan-nengsheng-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Omer Tanrikulu</title>
-      <link>https://muratmtunc.github.io/authors/omer-tanrikulu/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/authors/omer-tanrikulu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rong Wen</title>
-      <link>https://muratmtunc.github.io/authors/rong-wen/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/authors/rong-wen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sobhan Asian</title>
-      <link>https://muratmtunc.github.io/authors/sobhan-asian/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/authors/sobhan-asian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wenjing Yan</title>
-      <link>https://muratmtunc.github.io/authors/wenjing-yan/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/authors/wenjing-yan/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

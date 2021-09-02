@@ -2,39 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Academic</title>
-    <link>https://muratmtunc.github.io/tags/</link>
-      <atom:link href="https://muratmtunc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://academic-demo.netlify.app/tags/</link>
+      <atom:link href="https://academic-demo.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://muratmtunc.github.io/img/icon-192.png</url>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
-      <link>https://muratmtunc.github.io/tags/</link>
+      <link>https://academic-demo.netlify.app/tags/</link>
     </image>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>https://muratmtunc.github.io/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://muratmtunc.github.io/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plot</title>
-      <link>https://muratmtunc.github.io/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://muratmtunc.github.io/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regression</title>
-      <link>https://muratmtunc.github.io/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://muratmtunc.github.io/tags/regression/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
