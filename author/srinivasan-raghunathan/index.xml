@@ -5,12 +5,20 @@
     <link>https://muratmtunc.github.io/author/srinivasan-raghunathan/</link>
       <atom:link href="https://muratmtunc.github.io/author/srinivasan-raghunathan/index.xml" rel="self" type="application/rss+xml" />
     <description>Srinivasan Raghunathan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - Murat M. Tunc</copyright><lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - Murat M. Tunc</copyright><lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://muratmtunc.github.io/author/srinivasan-raghunathan/avatar_hua26d105e2be36283c7679068a7861f20_87926_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Srinivasan Raghunathan</title>
       <link>https://muratmtunc.github.io/author/srinivasan-raghunathan/</link>
     </image>
+    
+    <item>
+      <title>Online Product Reviews: Is a Finer-Grained Rating Scheme Superior to a Coarser One?</title>
+      <link>https://muratmtunc.github.io/publication/md-vs-sd/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/md-vs-sd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Two-Sided Adverse Selection and Bilateral Reviews in Sharing Economy</title>
@@ -26,6 +34,8 @@
 
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+---&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     

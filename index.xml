@@ -5,7 +5,7 @@
     <link>https://muratmtunc.github.io/</link>
       <atom:link href="https://muratmtunc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Murat M. Tunc</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - Murat M. Tunc</copyright><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - Murat M. Tunc</copyright><lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://muratmtunc.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Murat M. Tunc</title>
@@ -108,6 +108,40 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Online Product Reviews: Is a Finer-Grained Rating Scheme Superior to a Coarser One?</title>
+      <link>https://muratmtunc.github.io/publication/md-vs-sd/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/md-vs-sd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Resale Royalty on Primary and Secondary Sale Prices in the Non-Fungible Token Marketplace</title>
+      <link>https://muratmtunc.github.io/publication/rarible/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/rarible/</guid>
+      <description>&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Two-Sided Adverse Selection and Bilateral Reviews in Sharing Economy</title>
       <link>https://muratmtunc.github.io/publication/br/</link>
       <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
@@ -121,6 +155,8 @@ The variance of the distribution is $\sigma^{2}$.
 
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+---&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -424,7 +460,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-483526917&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-485673912&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -434,7 +470,7 @@ Demo:
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-483526917&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-485673912&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
