@@ -41,7 +41,7 @@
     <loc>https://muratmtunc.github.io/author/srinivasan-raghunathan/</loc>
     <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://muratmtunc.github.io/publication/preprint/</loc>
+    <loc>https://muratmtunc.github.io/publication/br/</loc>
     <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://muratmtunc.github.io/event/</loc>
@@ -63,11 +63,15 @@
   </url><url>
     <loc>https://muratmtunc.github.io/post/writing-technical-content/</loc>
   </url><url>
+    <loc>https://muratmtunc.github.io/privacy/</loc>
+  </url><url>
     <loc>https://muratmtunc.github.io/project/external-project/</loc>
   </url><url>
     <loc>https://muratmtunc.github.io/project/internal-project/</loc>
   </url><url>
     <loc>https://muratmtunc.github.io/slides/example/</loc>
+  </url><url>
+    <loc>https://muratmtunc.github.io/terms/</loc>
   </url><url>
     <loc>https://muratmtunc.github.io/categories/</loc>
   </url><url>
@@ -84,7 +88,5 @@
     <loc>https://muratmtunc.github.io/author/thomas-van-den-heuvel/</loc>
   </url><url>
     <loc>https://muratmtunc.github.io/author/zhiqiang-eric-zheng/</loc>
-  </url><url>
-    <loc>https://muratmtunc.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
 </urlset>

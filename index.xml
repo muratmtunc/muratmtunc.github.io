@@ -109,9 +109,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Two-Sided Adverse Selection and Bilateral Reviews in Sharing Economy</title>
-      <link>https://muratmtunc.github.io/publication/preprint/</link>
+      <link>https://muratmtunc.github.io/publication/br/</link>
       <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/publication/preprint/</guid>
+      <guid>https://muratmtunc.github.io/publication/br/</guid>
       <description>&lt;!---
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -144,6 +144,8 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+---&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -167,6 +169,8 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+---&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -420,7 +424,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-453826791&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-483526917&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -430,7 +434,7 @@ Demo:
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-453826791&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-483526917&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -677,6 +681,14 @@ You found me!
     
     <item>
       <title></title>
+      <link>https://muratmtunc.github.io/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://muratmtunc.github.io/project/external-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/project/external-project/</guid>
@@ -874,6 +886,14 @@ Create `assets/css/reveal_custom.css` with:
 
 [Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://muratmtunc.github.io/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/terms/</guid>
+      <description></description>
     </item>
     
   </channel>
