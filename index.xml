@@ -5,7 +5,7 @@
     <link>https://muratmtunc.github.io/</link>
       <atom:link href="https://muratmtunc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Murat M. Tunc</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - Murat M. Tunc</copyright><lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - Murat M. Tunc</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://muratmtunc.github.io/media/icon_hu871abc075ca099e375a6d46bfebb63d2_43165_512x512_fill_lanczos_center_3.png</url>
       <title>Murat M. Tunc</title>
@@ -110,15 +110,40 @@ The variance of the distribution is $\sigma^{2}$.
     <item>
       <title>Online Product Reviews: Is a Finer-Grained Rating Scheme Superior to a Coarser One?</title>
       <link>https://muratmtunc.github.io/publication/md-vs-sd/</link>
-      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/publication/md-vs-sd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact of Resale Royalty on Primary and Secondary Sale Prices in the Non-Fungible Token Marketplace</title>
+      <link>https://muratmtunc.github.io/talk/impact-of-resale-royalty-on-primary-and-secondary-sale-prices-in-the-non-fungible-token-marketplace/</link>
+      <pubDate>Sat, 23 Oct 2021 13:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/talk/impact-of-resale-royalty-on-primary-and-secondary-sale-prices-in-the-non-fungible-token-marketplace/</guid>
+      <description>&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+---&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impact of Resale Royalty on Primary and Secondary Sale Prices in the Non-Fungible Token Marketplace</title>
       <link>https://muratmtunc.github.io/publication/rarible/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/publication/rarible/</guid>
       <description>&lt;!---
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -460,7 +485,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-568427931&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-263957418&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -470,7 +495,7 @@ Demo:
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-568427931&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-263957418&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
