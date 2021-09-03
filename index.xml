@@ -120,24 +120,7 @@ The variance of the distribution is $\sigma^{2}$.
       <link>https://muratmtunc.github.io/talk/impact-of-resale-royalty-on-primary-and-secondary-sale-prices-in-the-non-fungible-token-marketplace/</link>
       <pubDate>Sat, 23 Oct 2021 13:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/talk/impact-of-resale-royalty-on-primary-and-secondary-sale-prices-in-the-non-fungible-token-marketplace/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
----&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -145,25 +128,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://muratmtunc.github.io/publication/rarible/</link>
       <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/publication/rarible/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -485,7 +450,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-263957418&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-872951463&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -495,7 +460,7 @@ Demo:
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-263957418&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-872951463&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
