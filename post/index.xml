@@ -7,7 +7,7 @@
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - Murat M. Tunc</copyright>
     <image>
-      <url>https://muratmtunc.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://muratmtunc.github.io/media/icon_hu871abc075ca099e375a6d46bfebb63d2_43165_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://muratmtunc.github.io/post/</link>
     </image>
@@ -254,7 +254,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-485673912&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-568427931&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -264,7 +264,7 @@ Demo:
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-485673912&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-568427931&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
