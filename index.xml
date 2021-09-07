@@ -13,50 +13,66 @@
     </image>
     
     <item>
-      <title>Python basics</title>
-      <link>https://muratmtunc.github.io/courses/example/python/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/courses/example/python/</guid>
-      <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
+      <title>1. Introduction to Computers</title>
+      <link>https://muratmtunc.github.io/courses/computer-skills/introduction-to-computers/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/computer-skills/introduction-to-computers/</guid>
+      <description>&lt;p&gt;Introduction to Computers, Programming, and Python&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
-&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1 hour lecture&lt;/p&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://muratmtunc.github.io/uploads/Computer_Skills_Slides_Lecture_1.pdf&#34; target=&#34;_blank&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h2&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/rfscVS0vtbw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BxWtllZt4OQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
-  &lt;summary&gt;What is the difference between lists and tuples?&lt;/summary&gt;
-  &lt;p&gt;&lt;p&gt;Lists&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Lists are mutable - they can be changed&lt;/li&gt;
-&lt;li&gt;Slower than tuples&lt;/li&gt;
-&lt;li&gt;Syntax: &lt;code&gt;a_list = [1, 2.0, &#39;Hello world&#39;]&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Tuples&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Tuples are immutable - they can&amp;rsquo;t be changed&lt;/li&gt;
-&lt;li&gt;Tuples are faster than lists&lt;/li&gt;
-&lt;li&gt;Syntax: &lt;code&gt;a_tuple = (1, 2.0, &#39;Hello world&#39;)&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/6i86_TBGuSw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/oadOWGBnloM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;review-questions&#34;&gt;Review Questions&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
+  &lt;summary&gt;1: A bit is a sequence of 8 bytes. (T/F)?&lt;/summary&gt;
+  &lt;p&gt;False&lt;/p&gt;
 &lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
-  &lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
-  &lt;p&gt;Yes&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
+  &lt;summary&gt;2: We can store data permanently in storage devices. (T/F)?&lt;/summary&gt;
+  &lt;p&gt;True&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
+  &lt;summary&gt;3: Assembly language is a low level programming language. (T/F)?&lt;/summary&gt;
+  &lt;p&gt;True&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-7&#34;&gt;
+  &lt;summary&gt;4: Only numeric data is stored as binary. (T/F)?&lt;/summary&gt;
+  &lt;p&gt;False&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-8&#34;&gt;
+  &lt;summary&gt;5: We can store data permanently in RAM. (T/F)?&lt;/summary&gt;
+  &lt;p&gt;False&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-9&#34;&gt;
+  &lt;summary&gt;6: A high level language is closer to hardware in terms  of direct interaction than a low level language? (T/F)?&lt;/summary&gt;
+  &lt;p&gt;False&lt;/p&gt;
 &lt;/details&gt;</description>
     </item>
     
     <item>
-      <title>Visualization</title>
-      <link>https://muratmtunc.github.io/courses/example/visualization/</link>
+      <title>2. Elementary Programming</title>
+      <link>https://muratmtunc.github.io/courses/computer-skills/elementary-programming/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/courses/example/visualization/</guid>
+      <guid>https://muratmtunc.github.io/courses/computer-skills/elementary-programming/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 45 minutes lecture, 30 minutes coding practice&lt;/p&gt;
 &lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -80,13 +96,41 @@ fig.show()
     </item>
     
     <item>
-      <title>Statistics</title>
-      <link>https://muratmtunc.github.io/courses/example/stats/</link>
+      <title>3. Selections</title>
+      <link>https://muratmtunc.github.io/courses/computer-skills/selections/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/courses/example/stats/</guid>
+      <guid>https://muratmtunc.github.io/courses/computer-skills/selections/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+&lt;p&gt;The general form of the &lt;strong&gt;normal&lt;/strong&gt; probability density function is:&lt;/p&gt;
+&lt;p&gt;$$
+f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
+$$&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The parameter $\mu$ is the mean or expectation of the distribution.
+$\sigma$ is its standard deviation.
+The variance of the distribution is $\sigma^{2}$.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
+  &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
+&lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>4. Functions</title>
+      <link>https://muratmtunc.github.io/courses/computer-skills/functions/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/computer-skills/functions/</guid>
+      <description>&lt;p&gt;Introduction to Computers, Programming, and Python&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1 hour&lt;/p&gt;
 &lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
 &lt;p&gt;The general form of the &lt;strong&gt;normal&lt;/strong&gt; probability density function is:&lt;/p&gt;
 &lt;p&gt;$$
@@ -450,7 +494,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-281649735&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-417385296&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -460,7 +504,7 @@ Demo:
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-281649735&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-417385296&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
