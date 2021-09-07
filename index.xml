@@ -357,7 +357,7 @@ print(&amp;quot;The result is&amp;quot;, result)
     <item>
       <title>3. Selections</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/selections/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/selections/</guid>
       <description>&lt;p&gt;Lecture 3.&lt;/p&gt;
 &lt;p&gt;November 23, 2021.&lt;/p&gt;
@@ -1041,7 +1041,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-528931647&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-864735219&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1051,7 +1051,7 @@ Demo:
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-528931647&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-864735219&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
