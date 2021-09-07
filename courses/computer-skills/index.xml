@@ -5,7 +5,7 @@
     <link>https://muratmtunc.github.io/courses/computer-skills/</link>
       <atom:link href="https://muratmtunc.github.io/courses/computer-skills/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Skills</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - Murat M. Tunc</copyright><lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - Murat M. Tunc</copyright><lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://muratmtunc.github.io/media/icon_hu871abc075ca099e375a6d46bfebb63d2_43165_512x512_fill_lanczos_center_3.png</url>
       <title>Computer Skills</title>
@@ -13,13 +13,15 @@
     </image>
     
     <item>
-      <title>1. Introduction to Computers</title>
+      <title>1. Introduction to Python</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/introduction-to-computers/</link>
       <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/introduction-to-computers/</guid>
-      <description>&lt;p&gt;Introduction to Computers, Programming, and Python&lt;/p&gt;
+      <description>&lt;p&gt;Lecture 1.&lt;/p&gt;
+&lt;p&gt;November 9, 2021.&lt;/p&gt;
+&lt;p&gt;Introduction to Computers, Programming, and Python.&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1 hour lecture&lt;/p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1 hour video lecture&lt;/p&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://muratmtunc.github.io/uploads/Computer_Skills_Slides_Lecture_1.pdf&#34; target=&#34;_blank&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h2&gt;
@@ -62,37 +64,284 @@
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-9&#34;&gt;
   &lt;summary&gt;6: A high level language is closer to hardware in terms  of direct interaction than a low level language? (T/F)?&lt;/summary&gt;
   &lt;p&gt;False&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;7: Which is an example of a code in machine language?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;area = 5 * 5 * 3.1415&lt;/li&gt;
+&lt;li&gt;1101101010011010&lt;/li&gt;
+&lt;li&gt;Both of the above&lt;/li&gt;
+&lt;li&gt;None of the above&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-10&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;1101101010011010&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;8: Find the error in the following program. Is that a syntax error or a logic error?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# This program prints Hello World!
+print(&amp;quot;Hello World!&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-11&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;Missing paranthesis at the end of the print statement. It&amp;rsquo;s a syntax error, it will be detected by the compiler. Correct version is below.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# This program prints Hello World!
+print(&amp;quot;Hello World!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;9: Find the error in the following program. Is that a syntax error or a logic error?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# This program prints Hello World!
+pirnt(&amp;quot;Hello World!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-12&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;Misspelling of print statement. It&amp;rsquo;s a syntax error, it will be detected by the compiler. Correct version is below.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# This program prints Hello World!
+print(&amp;quot;Hello World!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;10: Find the error in the following program. Is that a syntax error or a logic error?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# This program prints Hello World!
+print(&amp;quot;Hello Wrld!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-13&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;Misspelling of World. It&amp;rsquo;s a logic error, it will not be detected by the compiler. Correct version is below.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# This program prints Hello World!
+print(&amp;quot;Hello World!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/p&gt;
 &lt;/details&gt;</description>
     </item>
     
     <item>
       <title>2. Elementary Programming</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/elementary-programming/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/elementary-programming/</guid>
-      <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
+      <description>&lt;p&gt;Lecture 2.&lt;/p&gt;
+&lt;p&gt;November 16, 2021.&lt;/p&gt;
+&lt;p&gt;Elementary Programming&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 45 minutes lecture, 30 minutes coding practice&lt;/p&gt;
-&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 45 minutes video lecture, 40 minutes coding practice time.&lt;/p&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://muratmtunc.github.io/uploads/Computer_Skills_Slides_Lecture_2.pdf&#34; target=&#34;_blank&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h2&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/hSPmj7mK6ng&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BxWtllZt4OQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;h2 id=&#34;review-questions&#34;&gt;Review Questions&lt;/h2&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
-  &lt;summary&gt;When is a heatmap useful?&lt;/summary&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+  &lt;summary&gt;1: input() statement reads in a value from the user as numeric. (T/F)?&lt;/summary&gt;
+  &lt;p&gt;False&lt;/p&gt;
 &lt;/details&gt;
+&lt;p&gt;2: What does the following program print?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;radius = 7.5
+print (&amp;quot;radius&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
-  &lt;summary&gt;Write Plotly code to render a bar chart&lt;/summary&gt;
-  &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import plotly.express as px
-data_canada = px.data.gapminder().query(&amp;quot;country == &#39;Canada&#39;&amp;quot;)
-fig = px.bar(data_canada, x=&#39;year&#39;, y=&#39;pop&#39;)
-fig.show()
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;radius&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;3: What does the following program print?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;radius = 7.5
+print (radius)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;7.5&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;4: Which of the following are valid identifiers?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a&lt;/li&gt;
+&lt;li&gt;+app&lt;/li&gt;
+&lt;li&gt;3number&lt;/li&gt;
+&lt;li&gt;radiusOfTheCircle&lt;/li&gt;
+&lt;li&gt;$2&lt;/li&gt;
+&lt;li&gt;d+7&lt;/li&gt;
+&lt;li&gt;True&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;a, radiusOfTheCircle&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;5: What is the value stored in count?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;count = 7 / 3
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;2.3333&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;6: What is the value stored in test?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;test = 7 % 3
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-7&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;1&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;7: What is the value stored in count?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;count = 7 // 3
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-8&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;2&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;8: What is the value stored in test?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;test = 7.5 // 3
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-9&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;2.0&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;9: What is the value stored in x?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;x = 5
+x /= 2
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-10&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;2.5&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;10: What is the value stored in test?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;test = 5
+test += test + 1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-11&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;11&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;11: What is the value stored in x?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;x = 5
+x //= 2
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-12&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;11&lt;/p&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;in-class-programming-exercises&#34;&gt;In-class Programming Exercises&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-13&#34;&gt;
+  &lt;summary&gt;1: Write a program that reads in an input as the radius of a circle from the user, and calculates and prints the area of a circle.&lt;/summary&gt;
+  &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# In-class Exercise 1
+
+# Step 1: Read in radius from the user
+radius = input(&amp;quot;Please input the radius of a circle and press Enter: &amp;quot;)
+radius = float(radius)
+
+# Step 2: Compute area
+area = radius * radius * 3.14159
+
+# Step 3: Display the area
+print(&amp;quot;The area of a circle with the radius&amp;quot;, radius, &amp;quot;is&amp;quot;, area)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/p&gt;
-&lt;/details&gt;</description>
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-14&#34;&gt;
+  &lt;summary&gt;2: Write a program that reads in a Celsius degree from the user, converts Celsius to Fahrenheit degree, and displays the result.&lt;/summary&gt;
+  &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# In-class Exercise 2
+
+# Step 1: Read in Celsius degree from the user
+celsius = input(&amp;quot;Please input the Celsius degree and press Enter: &amp;quot;)
+celsius = float(celsius)
+
+# Step 2: Convert Celsius to Fahrenheit degree
+fahrenheit = (9/5) * celsius + 32
+
+# Step 3: Display the result
+print(&amp;quot;Celsius degree of&amp;quot;, celsius, &amp;quot;is equal to&amp;quot;, fahrenheit, &amp;quot;Fahrenheit degree&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-15&#34;&gt;
+  &lt;summary&gt;3: Write a program that reads three numbers from the user and displays their average.&lt;/summary&gt;
+  &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# In-class Exercise 3
+
+# Step 1: Read in the three numbers from the user
+number1 = float(input(&amp;quot;Please input the first number and press Enter:&amp;quot;))
+number2 = float(input(&amp;quot;Please input the second number and press Enter:&amp;quot;))
+number3 = float(input(&amp;quot;Please input the third number and press Enter:&amp;quot;))
+
+# Step 2: Calculate their average
+average = (number1 + number2 + number3) / 3
+
+# Step 3: Display the result
+print(&amp;quot;The average of the three numbers is&amp;quot;, average)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-16&#34;&gt;
+  &lt;summary&gt;4: Write a program to obtain minutes and remaining seconds from an amount of time in seconds. Example : Convert 200 seconds to 3 minutes and 20 seconds.&lt;/summary&gt;
+  &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# In-class exercise 4
+
+# Step 1: Read in the time in seconds from the user
+timeInSeconds = float(input (&amp;quot;Please input the time (in seconds) and press Enter:&amp;quot;))
+
+# Step 2: Convert the time to minutes and seconds
+minutes = int ( timeInSeconds // 60)
+seconds = timeInSeconds % 60
+
+# Step 3: Display the result
+print(timeInSeconds , &amp;quot;seconds equals to&amp;quot;, minutes, &amp;quot;minutes and&amp;quot;, seconds, &amp;quot;seconds&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;practice-at-home-programming-exercises&#34;&gt;Practice-at-home Programming Exercises&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-17&#34;&gt;
+  &lt;summary&gt;1: Write a program that reads a two digit integer from the user and swap its digits to create a new integer. Example: if the integer is 93, after swapping it becomes 39.&lt;/summary&gt;
+  &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Practice exercise 1
+
+# Step 1: Read in the two-digit number from the user
+twoDigitNumber = int (input (&amp;quot;Please input a two-digit number and press Enter:&amp;quot;))
+
+# Step 2: Swap its digits and create a new integer
+firstNumberTemporary = twoDigitNumber // 10
+secondNumberTemporary = twoDigitNumber % 10
+numberAfterSwap = secondNumberTemporary * 10 + firstNumberTemporary
+
+# Step 3: Display the result
+print(&amp;quot;After the swap, the new number is&amp;quot;, numberAfterSwap)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-18&#34;&gt;
+  &lt;summary&gt;2: Write a program that reads numbers for radius and length from the user, and displays the volume of a cylinder on console. The formulas for area and volume are as follows: area = radius * radius * pi; volume = area * length.&lt;/summary&gt;
+  &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Practice Exercise 2
+
+# Step 1: Read in radius and length from the user
+radius = float(input(&amp;quot;Please input the radius of a cylinder and press Enter: &amp;quot;))
+length = float(input(&amp;quot;Please input the length of a cylinder and press Enter: &amp;quot;))
+
+# Step 2: Compute volume
+area = radius * radius * 3.14159
+volume = area * length
+
+# Step 3: Display the area
+print(&amp;quot;The volume of a cylinder with the radius&amp;quot;, radius, &amp;quot;, and length&amp;quot;, length, &amp;quot;is&amp;quot;, volume)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;3: Write a program that reads the values of x and y from the user, and display the result after the following calculation.&lt;/p&gt;
+&lt;p&gt;$$
+y^{x-7} + \frac{x+y}{4} - \frac{2(x-y) + 3}{5} + \frac{y}{3x - 10} 
+$$&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-19&#34;&gt;
+  &lt;summary&gt;Click to see the answer.&lt;/summary&gt;
+  &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Practice Exercise 3
+
+# Step 1: Read in x and y
+x = float(input(&amp;quot;Please input x and press Enter: &amp;quot;))
+y = float(input(&amp;quot;Please input y and press Enter: &amp;quot;))
+
+# Step 2: Compute the answer
+result = pow(y, x-7) + (x+y)/4 - (2*(x-y)+3)/5 + y/(3*x-10)
+
+# Step 3: Display the result
+print(&amp;quot;The result is&amp;quot;, result)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;answers-to-programming-exercises&#34;&gt;Answers to Programming Exercises&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://muratmtunc.github.io/uploads/Lecture-2-Answers-Programming-Exercises.pdf&#34; target=&#34;_blank&#34;&gt;Please find the answers to programming exercises by clicking here.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -100,9 +349,11 @@ fig.show()
       <link>https://muratmtunc.github.io/courses/computer-skills/selections/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/selections/</guid>
-      <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
+      <description>&lt;p&gt;Lecture 3.&lt;/p&gt;
+&lt;p&gt;November 23, 2021.&lt;/p&gt;
+&lt;p&gt;Selections&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 45 minutes lecture, 30 minutes coding practice&lt;/p&gt;
 &lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
 &lt;p&gt;The general form of the &lt;strong&gt;normal&lt;/strong&gt; probability density function is:&lt;/p&gt;
 &lt;p&gt;$$
@@ -128,9 +379,11 @@ The variance of the distribution is $\sigma^{2}$.
       <link>https://muratmtunc.github.io/courses/computer-skills/functions/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/functions/</guid>
-      <description>&lt;p&gt;Introduction to Computers, Programming, and Python&lt;/p&gt;
+      <description>&lt;p&gt;Lecture 4.&lt;/p&gt;
+&lt;p&gt;November 30, 2021.&lt;/p&gt;
+&lt;p&gt;Functions&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1 hour&lt;/p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 45 minutes lecture, 30 minutes coding practice&lt;/p&gt;
 &lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
 &lt;p&gt;The general form of the &lt;strong&gt;normal&lt;/strong&gt; probability density function is:&lt;/p&gt;
 &lt;p&gt;$$
