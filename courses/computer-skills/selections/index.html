@@ -711,8 +711,12 @@ Selections" /><meta property="og:image" content="https://muratmtunc.github.io/me
 
       <nav id="TableOfContents">
   <ul>
-    <li><a href="#learn">Learn</a></li>
-    <li><a href="#quiz">Quiz</a></li>
+    <li><a href="#slides">Slides</a></li>
+    <li><a href="#video-lectures">Video Lectures</a></li>
+    <li><a href="#review-questions">Review Questions</a></li>
+    <li><a href="#in-class-programming-exercises">In-class Programming Exercises</a></li>
+    <li><a href="#practice-at-home-programming-exercises">Practice-at-home Programming Exercises</a></li>
+    <li><a href="#answers-to-programming-exercises">Answers to Programming Exercises</a></li>
   </ul>
 </nav>
 
@@ -777,25 +781,309 @@ Selections" /><meta property="og:image" content="https://muratmtunc.github.io/me
 <p>November 23, 2021.</p>
 <p>Selections</p>
 <p>
-  <i class="fas fa-clock  pr-1 fa-fw"></i> 45 minutes lecture, 30 minutes coding practice</p>
-<h2 id="learn">Learn</h2>
-<p>The general form of the <strong>normal</strong> probability density function is:</p>
-<p>$$
-f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
-$$</p>
+  <i class="fas fa-clock  pr-1 fa-fw"></i> 50 minutes video lecture, 40 minutes coding practice time.</p>
+<h2 id="slides">Slides</h2>
 <div class="alert alert-note">
   <div>
-    The parameter $\mu$ is the mean or expectation of the distribution.
-$\sigma$ is its standard deviation.
-The variance of the distribution is $\sigma^{2}$.
+    <a href="https://muratmtunc.github.io/uploads/Computer_Skills_Slides_Lecture_3.pdf" target="_blank">Please find the slides by clicking here.</a>
   </div>
 </div>
 
-<h2 id="quiz">Quiz</h2>
-<details class="spoiler "  id="spoiler-2">
-  <summary>What is the parameter $\mu$?</summary>
-  <p>The parameter $\mu$ is the mean or expectation of the distribution.</p>
+<h2 id="video-lectures">Video Lectures</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/BxWtllZt4OQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="review-questions">Review Questions</h2>
+<details class="spoiler "  id="spoiler-3">
+  <summary>1: if statement must be accompanied by else statement. (T/F)?</summary>
+  <p>False</p>
 </details>
+<p>2: What does the following program print?</p>
+<pre><code class="language-python">radius = 7.5
+if radius &gt; 7:
+    print(radius)
+</code></pre>
+<details class="spoiler "  id="spoiler-4">
+  <summary>Click here to see the answer.</summary>
+  <p>7.5</p>
+</details>
+<p>3: What does the following program print?</p>
+<pre><code class="language-python">radius = 8
+if radius &gt; 8:
+    print(radius)
+else:
+    radius = 9
+</code></pre>
+<details class="spoiler "  id="spoiler-5">
+  <summary>Click here to see the answer.</summary>
+  <p>This program does not print anything.</p>
+</details>
+<p>4: What does the following program print?</p>
+<pre><code class="language-python">radius = 8
+if radius != 8:
+    print(radius)
+else:
+    radius = 9
+    print(radius)
+</code></pre>
+<details class="spoiler "  id="spoiler-6">
+  <summary>Click here to see the answer.</summary>
+  <p>9</p>
+</details>
+<p>5: What does the following program print?</p>
+<pre><code class="language-python">b = 1 &gt; 2
+if b::
+    print(b)
+</code></pre>
+<details class="spoiler "  id="spoiler-7">
+  <summary>Click here to see the answer.</summary>
+  <p>This program does not print anything.</p>
+</details>
+<p>6: What does the following program print?</p>
+<pre><code class="language-python">score = 75
+if score &gt; 70:
+    print(score)
+elif score &gt; 65:
+    score += 10
+    print(score)
+</code></pre>
+<details class="spoiler "  id="spoiler-8">
+  <summary>Click here to see the answer.</summary>
+  <p>75</p>
+</details>
+<p>7: What does the following program print?</p>
+<pre><code class="language-python">score = 75
+if score &gt; 70:
+    print(score)
+if score &gt; 65:
+    score += 10
+    print(score)
+</code></pre>
+<details class="spoiler "  id="spoiler-9">
+  <summary>Click here to see the answer.</summary>
+  <p>75
+85</p>
+</details>
+<p>8: What does the following program print?</p>
+<pre><code class="language-python">score = 75
+if score &gt; 70:
+    if score &lt; 60:
+        print(score)
+else:
+    score += 10
+    print(score)
+</code></pre>
+<details class="spoiler "  id="spoiler-10">
+  <summary>Click here to see the answer.</summary>
+  <p>This program does not print anything.</p>
+</details>
+<p>9: What does the following program print?</p>
+<pre><code class="language-python">score = 75
+if score &gt; 70:
+    if score &lt; 60:
+        print(score)
+    else:
+        score += 10
+        print(score)
+</code></pre>
+<details class="spoiler "  id="spoiler-11">
+  <summary>Click here to see the answer.</summary>
+  <p>85</p>
+</details>
+<p>10: What does the following program print?</p>
+<pre><code class="language-python">score = 75
+age = 19
+height = 181
+if age &gt; 19:
+    print (score)
+elif not age &gt; 18:
+    score += 10
+    print(score)
+</code></pre>
+<details class="spoiler "  id="spoiler-12">
+  <summary>Click here to see the answer.</summary>
+  <p>This program does not print anything.</p>
+</details>
+<p>11: What does the following program print?</p>
+<pre><code class="language-python">score = 75
+age = 19
+height = 181
+if age &gt; 19 or height &lt; 190:
+    print (score)
+elif age &gt; 18:
+    score += 10
+    print(score)
+</code></pre>
+<details class="spoiler "  id="spoiler-13">
+  <summary>Click here to see the answer.</summary>
+  <p>75</p>
+</details>
+<p>12: What does the following program print?</p>
+<pre><code class="language-python">score = 75
+age = 19
+height = 181
+if age &gt; 18 and height &lt; 180:
+    print (score)
+elif age &gt; 19 or height &gt; 190:
+    score += 10
+    print(score)
+</code></pre>
+<details class="spoiler "  id="spoiler-14">
+  <summary>Click here to see the answer.</summary>
+  <p>This program does not print anything.</p>
+</details>
+<p>13: What does the following program print?</p>
+<pre><code class="language-python">score = 75
+age = 19
+height = 181
+if not age &gt; 19 and height &lt; 180:
+    print (score)
+elif not age &gt; 18 or height &gt; 190:
+    score += 10
+    print(score)
+</code></pre>
+<details class="spoiler "  id="spoiler-15">
+  <summary>Click here to see the answer.</summary>
+  <p>85</p>
+</details>
+<p>14: What does the following program print?</p>
+<pre><code class="language-python">score = 75
+age = 19
+height = 181
+if not age &gt; 19 and height &lt; 180:
+    print (score)
+elif not (age &gt; 18 or height &gt; 190):
+    score += 10
+    print(score)
+</code></pre>
+<details class="spoiler "  id="spoiler-16">
+  <summary>Click here to see the answer.</summary>
+  <p>This program does not print anything.</p>
+</details>
+<p>14: What does the following program print?</p>
+<pre><code class="language-python">score = 75
+age = 19
+height = 181
+if not (age &gt; 19 and height &lt; 180):
+    print (score)
+elif not (age &gt; 18 or height &gt; 190):
+    score += 10
+    print(score)
+</code></pre>
+<details class="spoiler "  id="spoiler-17">
+  <summary>Click here to see the answer.</summary>
+  <p>75</p>
+</details>
+<h2 id="in-class-programming-exercises">In-class Programming Exercises</h2>
+<p>1: Write a program that randomly generates two single digit integers, and displays a question such as “ What is 3 + 5?”. Then, the program reads in the answer from the user, and displays a message to indicate whether the answer is correct or not.</p>
+<p>Hint: To generate a random single digit integer, you may use the following code.</p>
+<pre><code class="language-python">import random
+number = random. randint (0,9)
+</code></pre>
+<details class="spoiler "  id="spoiler-18">
+  <summary>Click to see the answer.</summary>
+  <p><pre><code class="language-python"># In-class Exercise 1
+
+import random
+# Step 1: Randomly generate two numbers
+number1 = random.randint (0, 9)
+number2 = random.randint (0, 9)
+
+# Step 2: Display the question and read in the answer
+print(&quot;What is&quot;, number1, &quot;+&quot;, number2, &quot;?&quot;)
+answer = int ( input(&quot;Please type the answer and press Enter:&quot;))
+
+# Step 3: Check whether the answer is correct or not
+if answer == number1 + number2:
+    print(&quot;Your answer is correct!&quot;)
+else:
+    print(&quot;Your answer is wrong!&quot;)
+</code></pre>
+</p>
+</details>
+<p>2: Write a program that prompts the user to enter an integer for a day of the week. Then, the program checks whether the corresponding day is a weekday or weekend, and displays the result appropriately.</p>
+<details class="spoiler "  id="spoiler-19">
+  <summary>Click to see the answer.</summary>
+  <p><pre><code class="language-python"># In-class Exercise 2
+
+# Step 1: Read in the day of the week from the user
+dayOfTheWeek = int(input(&quot;Please input the day of the week (1 for Monday, ..., 7 for Sunday) and press Enter: &quot;))
+
+# Step 2: Check whether it is a weekday or a weekend
+if dayOfTheWeek &lt;= 5 and dayOfTheWeek &gt;= 1:
+    print(&quot;It's a weekday!&quot;)
+elif dayOfTheWeek == 6 or dayOfTheWeek == 7:
+    print(&quot;It's a weekend!&quot;)
+else:
+    print(&quot;Invalid input!&quot;)
+</code></pre>
+</p>
+</details>
+<p>3: Write a program that prompts the user to enter a year as an integer, and checks whether it is a leap year. Hint: A year is a leap year if (1) it is divisible by 400, or (2a) it is divisible by 4 and (2b) not divisible by 100.</p>
+<details class="spoiler "  id="spoiler-20">
+  <summary>Click to see the answer.</summary>
+  <p><pre><code class="language-python"># In-class Exercise 3
+
+# Step 1: Read in the year
+year = int( input (&quot;Please input the year and press Enter:&quot;))
+
+# Step 2: Check whether the year is a leap year
+if year % 400 == 0 or (year % 4 == 0 and not year % 100 == 0):
+    print(&quot;It’s a leap year!&quot;)
+else:
+    print(&quot;It’s not a leap year!&quot;)
+</code></pre>
+</p>
+</details>
+<h2 id="practice-at-home-programming-exercises">Practice-at-home Programming Exercises</h2>
+<p>1: Write a program that prompts the user to enter a movie’s IMDB rating (0 to 10 - may include decimal, like 3.5) and Metascore (0 to 100 - integer), and checks whether the movie is recommended to watch.</p>
+<p>Hint: Recommend if rating &gt; 7.0 and Metascore &gt; 60.
+<details class="spoiler "  id="spoiler-21">
+  <summary>Click to see the answer.</summary>
+  <p><pre><code class="language-python"># Practice Exercise 1
+
+# Step 1: Read in the IMDB rating and metascore
+IMDBRating = float(input(&quot;Please input IMDB rating of a movie (0 to 10) and press Enter:&quot;))
+metascore = int(input(&quot;Please input IMDB rating of a movie (0 to 100 - integer) and press Enter:&quot;))
+
+# Step 2: Recommend the movie if the rating &gt; 7.0 and metascore &gt; 60
+if IMDBRating &gt; 7.0 and metascore &gt; 60:
+    print(&quot;This movie is recommended to watch!&quot;)
+else:
+    print(&quot;This movie is not recommended to watch!&quot;)
+</code></pre>
+</p>
+</details></p>
+<p>2: Write a program that prompts the user to enter the day, month and year he/shewas born, and displays whether he/she can legally purchase beer in US.</p>
+<p>Example dialogue:</p>
+<ul>
+<li>Give me a beer, please.</li>
+<li>Can I see an ID? 6.12.2000</li>
+<li>I’m sorry, but I cannot sell you a beer.</li>
+</ul>
+<details class="spoiler "  id="spoiler-22">
+  <summary>Click to see the answer.</summary>
+  <p><pre><code class="language-python"># Practice Exercise 2
+
+# Step 1: Read in the day, month and year
+print(&quot;Give me a beer please!&quot;)
+print(&quot;Can I see an ID?&quot;)
+dayOfBirth = int(input(&quot;Please input the day of your birthday and press Enter:&quot;))
+monthOfBirth = int(input(&quot;Please input the month of your birthday and press Enter:&quot;))
+yearOfBirth = int(input(&quot;Please input the year of your birthday and press Enter:&quot;))
+
+# Step 2: Check whether the user can legally purchase beer in US
+if yearOfBirth &lt; 2000 or (yearOfBirth == 2000 and monthOfBirth &lt; 11) or (yearOfBirth == 2000 and monthOfBirth == 11 and dayOfBirth &lt;= 23):
+    print(&quot;Here is your beer!&quot;)
+else:
+    print(&quot;I'm sorry, I cannot sell you a beer!&quot;)
+</code></pre>
+</p>
+</details>
+<h2 id="answers-to-programming-exercises">Answers to Programming Exercises</h2>
+<p><a href="https://muratmtunc.github.io/uploads/Lecture_3_Answers_Programming_Exercises.pdf" target="_blank">Please find the answers to programming exercises by clicking here.</a></p>
           </div>
 
           
