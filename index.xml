@@ -351,7 +351,11 @@ print(&amp;quot;The result is&amp;quot;, result)
 &lt;/p&gt;
 &lt;/details&gt;
 &lt;h2 id=&#34;answers-to-programming-exercises&#34;&gt;Answers to Programming Exercises&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://muratmtunc.github.io/uploads/Lecture_2_Answers_Programming_Exercises.pdf&#34; target=&#34;_blank&#34;&gt;Please find the answers to programming exercises by clicking here.&lt;/a&gt;&lt;/p&gt;</description>
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Lecture_2_Answers_Programming_Exercises.pdf&#34; target=&#34;_blank&#34;&gt;Please find the answers to programming exercises by clicking here.&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -665,37 +669,200 @@ else:
 &lt;/p&gt;
 &lt;/details&gt;
 &lt;h2 id=&#34;answers-to-programming-exercises&#34;&gt;Answers to Programming Exercises&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://muratmtunc.github.io/uploads/Lecture_3_Answers_Programming_Exercises.pdf&#34; target=&#34;_blank&#34;&gt;Please find the answers to programming exercises by clicking here.&lt;/a&gt;&lt;/p&gt;</description>
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Lecture_3_Answers_Programming_Exercises.pdf&#34; target=&#34;_blank&#34;&gt;Please find the answers to programming exercises by clicking here.&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>
       <title>4. Functions</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/functions/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/functions/</guid>
       <description>&lt;p&gt;Lecture 4.&lt;/p&gt;
 &lt;p&gt;November 30, 2021.&lt;/p&gt;
 &lt;p&gt;Functions&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 45 minutes lecture, 30 minutes coding practice&lt;/p&gt;
-&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
-&lt;p&gt;The general form of the &lt;strong&gt;normal&lt;/strong&gt; probability density function is:&lt;/p&gt;
-&lt;p&gt;$$
-f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
-$$&lt;/p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1 hour video lecture, 15 minutes coding practice time.&lt;/p&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    The parameter $\mu$ is the mean or expectation of the distribution.
-$\sigma$ is its standard deviation.
-The variance of the distribution is $\sigma^{2}$.
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Computer_Skills_Slides_Lecture_4.pdf&#34; target=&#34;_blank&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
-  &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
-  &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
-&lt;/details&gt;</description>
+&lt;h2 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BxWtllZt4OQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;review-questions&#34;&gt;Review Questions&lt;/h2&gt;
+&lt;p&gt;1: What is the value of integer?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def myInteger (num1, num2):
+    return num2 - num1
+integer = myInteger (5, 14)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;9&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;2: What is the value of integer?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def myInteger (num2, num1):
+    return num2 % num1
+integer = myInteger (5, 14)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;5&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;3: What is the value of integer?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def myInteger (num1, num2):
+    return num2 / num1
+integer = myInteger (5, 14)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;2.8&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;4: What is the value of integer?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def myInteger (num1, num2):
+    return num2 // num1
+integer = myInteger (5, 14)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;2&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;5: What is the value of integer?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def myInteger (num1, num2):
+    print(num2 / num1)
+integer = myInteger (5, 14)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-7&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;None. myInteger function does not return a value.&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;6: What does the following program print on the console?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def myInteger (string, number):
+    print(string + number)
+myPrint(5, 14)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-8&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;19&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;7: What does the following program print on the console?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def myInteger (string, number):
+    print(string, number)
+myPrint(5, 14)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-9&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;5 14&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;8: What does the following program print on the console?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def myInteger (string, number):
+    print(string + number)
+myPrint(&amp;quot;5&amp;quot;, 14)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-10&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;Error. &amp;ldquo;5&amp;rdquo; + 14 is a syntax error, since &amp;ldquo;5&amp;rdquo; is text (i.e. string) whereas 14 is a number&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;9: Is the following code OK (i.e., runs without error) ?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def mySum (num1):
+    num1 += 2
+    num2 += 5
+    return num1 + num2
+value = mySum (10, 2)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-11&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;Error, num 2 is not defined in the function header.&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;10: Is the following code OK (i.e., runs without error) ?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def mySum (num1):
+    num1 += 2
+    num2 += 5
+    return num1 + num2
+    num1 += 10
+value = mySum (10, 2)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-12&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;It is OK, runs without error. However, there is an unreachable code after return. The function terminates after return, so please do not write any statement after return.&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;11: Is the following code OK (i.e., runs without error) ?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def mySum (num1, num2):
+    num1 += 2
+    num2 += 5
+    return num1 + num2
+    num1 += 10
+    return num1 + num2
+value = mySum (10, 2)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-13&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;It is OK, runs without error. The second return statement is not executed, but Python does not terminate due to a syntax error.&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;12: Is the following code OK (i.e., runs without error) ?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;value = mySum (10, 2)
+def mySum (num1, num2):
+    num1 += 2
+    num2 += 5
+    return num1 + num2
+    num1 += 10
+    return num1 + num2
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-14&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;No, there is a syntax error in this program. The function was not defined before it was invoked. Always define the function before invoking it.&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;13: What does the following code print?&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def myInteger (num1, num2):
+    num1 //= 5
+    print(num1)
+    return num2 % num1
+num1 = 15
+num2 = myInteger(33, num1)
+print (myInteger (num1 * num2, num2) )
+print (num2) 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-15&#34;&gt;
+  &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
+  &lt;p&gt;First, it prints 6, then 9, then 3, and finally 3.&lt;/p&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;in-class-programming-exercises&#34;&gt;In-class Programming Exercises&lt;/h2&gt;
+&lt;p&gt;1: Write a program that asks the user to enter two integers: num1 and num2. Then, the program invokes a function that takes two integers. This function returns true if the first number is greater than the second one, else it returns false. After the function returns the value, the program prints whether num1 is greater than num2, or not.&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-16&#34;&gt;
+  &lt;summary&gt;Click to see the answer.&lt;/summary&gt;
+  &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# In-class Exercise 1
+
+def myComparison (num1, num2):
+    result = False
+    if num1 &amp;gt; num2:
+        result = True
+    return result
+    
+num1 = int ( input ( &amp;quot;Please input an integer and press Enter&amp;quot;) )
+num2 = int ( input ( &amp;quot;Please input an integer and press Enter&amp;quot;) )
+
+if myComparison (num1, num2):
+    print(&amp;quot;The first number is greater!&amp;quot;)
+else:
+    print(&amp;quot;The second number is greater or equal!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;answers-to-programming-exercises&#34;&gt;Answers to Programming Exercises&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Lecture_4_Answers_Programming_Exercises.pdf&#34; target=&#34;_blank&#34;&gt;Please find the answers to programming exercises by clicking here.&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -1041,7 +1208,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-864735219&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-971625843&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1051,7 +1218,7 @@ Demo:
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-864735219&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-971625843&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
