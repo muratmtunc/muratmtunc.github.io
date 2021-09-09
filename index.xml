@@ -21,7 +21,7 @@
 &lt;p&gt;November 9, 2021.&lt;/p&gt;
 &lt;p&gt;Introduction to Computers, Programming, and Python.&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1 hour video lecture&lt;/p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 62 minutes video lecture&lt;/p&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -32,17 +32,17 @@
 &lt;h2 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h2&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/BxWtllZt4OQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/xhd1NBfXskI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/6i86_TBGuSw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Wam5gBcUl5M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/oadOWGBnloM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/KiBZfx_0F6E&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;review-questions&#34;&gt;Review Questions&lt;/h2&gt;
@@ -137,13 +137,8 @@ print(&amp;quot;Hello World!&amp;quot;)
 &lt;/div&gt;
 
 &lt;h2 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/BxWtllZt4OQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
 &lt;h2 id=&#34;review-questions&#34;&gt;Review Questions&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
   &lt;summary&gt;1: input() statement reads in a value from the user as numeric. (T/F)?&lt;/summary&gt;
   &lt;p&gt;False&lt;/p&gt;
 &lt;/details&gt;
@@ -151,7 +146,7 @@ print(&amp;quot;Hello World!&amp;quot;)
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;radius = 7.5
 print (&amp;quot;radius&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;radius&lt;/p&gt;
 &lt;/details&gt;
@@ -159,7 +154,7 @@ print (&amp;quot;radius&amp;quot;)
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;radius = 7.5
 print (radius)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;7.5&lt;/p&gt;
 &lt;/details&gt;
@@ -173,35 +168,35 @@ print (radius)
 &lt;li&gt;d+7&lt;/li&gt;
 &lt;li&gt;True&lt;/li&gt;
 &lt;/ul&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;a, radiusOfTheCircle&lt;/p&gt;
 &lt;/details&gt;
 &lt;p&gt;5: What is the value stored in count?&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;count = 7 / 3
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-7&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;2.3333&lt;/p&gt;
 &lt;/details&gt;
 &lt;p&gt;6: What is the value stored in test?&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;test = 7 % 3
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-8&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-7&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;1&lt;/p&gt;
 &lt;/details&gt;
 &lt;p&gt;7: What is the value stored in count?&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;count = 7 // 3
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-9&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-8&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;2&lt;/p&gt;
 &lt;/details&gt;
 &lt;p&gt;8: What is the value stored in test?&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;test = 7.5 // 3
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-10&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-9&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;2.0&lt;/p&gt;
 &lt;/details&gt;
@@ -209,7 +204,7 @@ print (radius)
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;x = 5
 x /= 2
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-11&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-10&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;2.5&lt;/p&gt;
 &lt;/details&gt;
@@ -217,7 +212,7 @@ x /= 2
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;test = 5
 test += test + 1
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-12&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-11&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;11&lt;/p&gt;
 &lt;/details&gt;
@@ -225,12 +220,12 @@ test += test + 1
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;x = 5
 x //= 2
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-13&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-12&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;11&lt;/p&gt;
 &lt;/details&gt;
 &lt;h2 id=&#34;in-class-programming-exercises&#34;&gt;In-class Programming Exercises&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-14&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-13&#34;&gt;
   &lt;summary&gt;1: Write a program that reads in an input as the radius of a circle from the user, and calculates and prints the area of a circle.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# In-class Exercise 1
 
@@ -246,7 +241,7 @@ print(&amp;quot;The area of a circle with the radius&amp;quot;, radius, &amp;quo
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/p&gt;
 &lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-15&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-14&#34;&gt;
   &lt;summary&gt;2: Write a program that reads in a Celsius degree from the user, converts Celsius to Fahrenheit degree, and displays the result.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# In-class Exercise 2
 
@@ -262,7 +257,7 @@ print(&amp;quot;Celsius degree of&amp;quot;, celsius, &amp;quot;is equal to&amp;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/p&gt;
 &lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-16&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-15&#34;&gt;
   &lt;summary&gt;3: Write a program that reads three numbers from the user and displays their average.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# In-class Exercise 3
 
@@ -279,7 +274,7 @@ print(&amp;quot;The average of the three numbers is&amp;quot;, average)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/p&gt;
 &lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-17&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-16&#34;&gt;
   &lt;summary&gt;4: Write a program to obtain minutes and remaining seconds from an amount of time in seconds. Example : Convert 200 seconds to 3 minutes and 20 seconds.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# In-class exercise 4
 
@@ -296,7 +291,7 @@ print(timeInSeconds , &amp;quot;seconds equals to&amp;quot;, minutes, &amp;quot;
 &lt;/p&gt;
 &lt;/details&gt;
 &lt;h2 id=&#34;practice-at-home-programming-exercises&#34;&gt;Practice-at-home Programming Exercises&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-18&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-17&#34;&gt;
   &lt;summary&gt;1: Write a program that reads a two digit integer from the user and swap its digits to create a new integer. Example: if the integer is 93, after swapping it becomes 39.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Practice exercise 1
 
@@ -313,7 +308,7 @@ print(&amp;quot;After the swap, the new number is&amp;quot;, numberAfterSwap)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/p&gt;
 &lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-19&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-18&#34;&gt;
   &lt;summary&gt;2: Write a program that reads numbers for radius and length from the user, and displays the volume of a cylinder on console. The formulas for area and volume are as follows: area = radius * radius * pi; volume = area * length.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Practice Exercise 2
 
@@ -334,7 +329,7 @@ print(&amp;quot;The volume of a cylinder with the radius&amp;quot;, radius, &amp
 &lt;p&gt;$$
 y^{x-7} + \frac{x+y}{4} - \frac{2(x-y) + 3}{5} + \frac{y}{3x - 10} 
 $$&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-20&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-19&#34;&gt;
   &lt;summary&gt;Click to see the answer.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Practice Exercise 3
 
@@ -376,13 +371,8 @@ print(&amp;quot;The result is&amp;quot;, result)
 &lt;/div&gt;
 
 &lt;h2 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/BxWtllZt4OQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
 &lt;h2 id=&#34;review-questions&#34;&gt;Review Questions&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
   &lt;summary&gt;1: if statement must be accompanied by else statement. (T/F)?&lt;/summary&gt;
   &lt;p&gt;False&lt;/p&gt;
 &lt;/details&gt;
@@ -391,7 +381,7 @@ print(&amp;quot;The result is&amp;quot;, result)
 if radius &amp;gt; 7:
     print(radius)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;7.5&lt;/p&gt;
 &lt;/details&gt;
@@ -402,7 +392,7 @@ if radius &amp;gt; 8:
 else:
     radius = 9
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;This program does not print anything.&lt;/p&gt;
 &lt;/details&gt;
@@ -414,7 +404,7 @@ else:
     radius = 9
     print(radius)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;9&lt;/p&gt;
 &lt;/details&gt;
@@ -423,7 +413,7 @@ else:
 if b::
     print(b)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-7&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;This program does not print anything.&lt;/p&gt;
 &lt;/details&gt;
@@ -435,7 +425,7 @@ elif score &amp;gt; 65:
     score += 10
     print(score)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-8&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-7&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;75&lt;/p&gt;
 &lt;/details&gt;
@@ -447,7 +437,7 @@ if score &amp;gt; 65:
     score += 10
     print(score)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-9&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-8&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;75
 85&lt;/p&gt;
@@ -461,7 +451,7 @@ else:
     score += 10
     print(score)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-10&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-9&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;This program does not print anything.&lt;/p&gt;
 &lt;/details&gt;
@@ -474,7 +464,7 @@ if score &amp;gt; 70:
         score += 10
         print(score)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-11&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-10&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;85&lt;/p&gt;
 &lt;/details&gt;
@@ -488,7 +478,7 @@ elif not age &amp;gt; 18:
     score += 10
     print(score)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-12&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-11&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;This program does not print anything.&lt;/p&gt;
 &lt;/details&gt;
@@ -502,7 +492,7 @@ elif age &amp;gt; 18:
     score += 10
     print(score)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-13&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-12&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;75&lt;/p&gt;
 &lt;/details&gt;
@@ -516,7 +506,7 @@ elif age &amp;gt; 19 or height &amp;gt; 190:
     score += 10
     print(score)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-14&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-13&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;This program does not print anything.&lt;/p&gt;
 &lt;/details&gt;
@@ -530,7 +520,7 @@ elif not age &amp;gt; 18 or height &amp;gt; 190:
     score += 10
     print(score)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-15&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-14&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;85&lt;/p&gt;
 &lt;/details&gt;
@@ -544,7 +534,7 @@ elif not (age &amp;gt; 18 or height &amp;gt; 190):
     score += 10
     print(score)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-16&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-15&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;This program does not print anything.&lt;/p&gt;
 &lt;/details&gt;
@@ -558,7 +548,7 @@ elif not (age &amp;gt; 18 or height &amp;gt; 190):
     score += 10
     print(score)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-17&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-16&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;75&lt;/p&gt;
 &lt;/details&gt;
@@ -568,7 +558,7 @@ elif not (age &amp;gt; 18 or height &amp;gt; 190):
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import random
 number = random. randint (0,9)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-18&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-17&#34;&gt;
   &lt;summary&gt;Click to see the answer.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# In-class Exercise 1
 
@@ -590,7 +580,7 @@ else:
 &lt;/p&gt;
 &lt;/details&gt;
 &lt;p&gt;2: Write a program that prompts the user to enter an integer for a day of the week. Then, the program checks whether the corresponding day is a weekday or weekend, and displays the result appropriately.&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-19&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-18&#34;&gt;
   &lt;summary&gt;Click to see the answer.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# In-class Exercise 2
 
@@ -608,7 +598,7 @@ else:
 &lt;/p&gt;
 &lt;/details&gt;
 &lt;p&gt;3: Write a program that prompts the user to enter a year as an integer, and checks whether it is a leap year. Hint: A year is a leap year if (1) it is divisible by 400, or (2a) it is divisible by 4 and (2b) not divisible by 100.&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-20&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-19&#34;&gt;
   &lt;summary&gt;Click to see the answer.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# In-class Exercise 3
 
@@ -626,7 +616,7 @@ else:
 &lt;h2 id=&#34;practice-at-home-programming-exercises&#34;&gt;Practice-at-home Programming Exercises&lt;/h2&gt;
 &lt;p&gt;1: Write a program that prompts the user to enter a movie’s IMDB rating (0 to 10 - may include decimal, like 3.5) and Metascore (0 to 100 - integer), and checks whether the movie is recommended to watch.&lt;/p&gt;
 &lt;p&gt;Hint: Recommend if rating &amp;gt; 7.0 and Metascore &amp;gt; 60.
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-21&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-20&#34;&gt;
   &lt;summary&gt;Click to see the answer.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Practice Exercise 1
 
@@ -649,7 +639,7 @@ else:
 &lt;li&gt;Can I see an ID? 6.12.2000&lt;/li&gt;
 &lt;li&gt;I’m sorry, but I cannot sell you a beer.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-22&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-21&#34;&gt;
   &lt;summary&gt;Click to see the answer.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Practice Exercise 2
 
@@ -694,18 +684,13 @@ else:
 &lt;/div&gt;
 
 &lt;h2 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/BxWtllZt4OQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
 &lt;h2 id=&#34;review-questions&#34;&gt;Review Questions&lt;/h2&gt;
 &lt;p&gt;1: What is the value of integer?&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def myInteger (num1, num2):
     return num2 - num1
 integer = myInteger (5, 14)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;9&lt;/p&gt;
 &lt;/details&gt;
@@ -714,7 +699,7 @@ integer = myInteger (5, 14)
     return num2 % num1
 integer = myInteger (5, 14)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;5&lt;/p&gt;
 &lt;/details&gt;
@@ -723,7 +708,7 @@ integer = myInteger (5, 14)
     return num2 / num1
 integer = myInteger (5, 14)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;2.8&lt;/p&gt;
 &lt;/details&gt;
@@ -732,7 +717,7 @@ integer = myInteger (5, 14)
     return num2 // num1
 integer = myInteger (5, 14)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;2&lt;/p&gt;
 &lt;/details&gt;
@@ -741,7 +726,7 @@ integer = myInteger (5, 14)
     print(num2 / num1)
 integer = myInteger (5, 14)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-7&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;None. myInteger function does not return a value.&lt;/p&gt;
 &lt;/details&gt;
@@ -750,7 +735,7 @@ integer = myInteger (5, 14)
     print(string + number)
 myPrint(5, 14)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-8&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-7&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;19&lt;/p&gt;
 &lt;/details&gt;
@@ -759,7 +744,7 @@ myPrint(5, 14)
     print(string, number)
 myPrint(5, 14)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-9&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-8&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;5 14&lt;/p&gt;
 &lt;/details&gt;
@@ -768,7 +753,7 @@ myPrint(5, 14)
     print(string + number)
 myPrint(&amp;quot;5&amp;quot;, 14)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-10&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-9&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;Error. &amp;ldquo;5&amp;rdquo; + 14 is a syntax error, since &amp;ldquo;5&amp;rdquo; is text (i.e. string) whereas 14 is a number&lt;/p&gt;
 &lt;/details&gt;
@@ -779,7 +764,7 @@ myPrint(&amp;quot;5&amp;quot;, 14)
     return num1 + num2
 value = mySum (10, 2)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-11&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-10&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;Error, num 2 is not defined in the function header.&lt;/p&gt;
 &lt;/details&gt;
@@ -791,7 +776,7 @@ value = mySum (10, 2)
     num1 += 10
 value = mySum (10, 2)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-12&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-11&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;It is OK, runs without error. However, there is an unreachable code after return. The function terminates after return, so please do not write any statement after return.&lt;/p&gt;
 &lt;/details&gt;
@@ -804,7 +789,7 @@ value = mySum (10, 2)
     return num1 + num2
 value = mySum (10, 2)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-13&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-12&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;It is OK, runs without error. The second return statement is not executed, but Python does not terminate due to a syntax error.&lt;/p&gt;
 &lt;/details&gt;
@@ -817,7 +802,7 @@ def mySum (num1, num2):
     num1 += 10
     return num1 + num2
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-14&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-13&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;No, there is a syntax error in this program. The function was not defined before it was invoked. Always define the function before invoking it.&lt;/p&gt;
 &lt;/details&gt;
@@ -831,13 +816,13 @@ num2 = myInteger(33, num1)
 print (myInteger (num1 * num2, num2) )
 print (num2) 
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-15&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-14&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;First, it prints 6, then 9, then 3, and finally 3.&lt;/p&gt;
 &lt;/details&gt;
 &lt;h2 id=&#34;in-class-programming-exercises&#34;&gt;In-class Programming Exercises&lt;/h2&gt;
 &lt;p&gt;1: Write a program that asks the user to enter two integers: num1 and num2. Then, the program invokes a function that takes two integers. This function returns true if the first number is greater than the second one, else it returns false. After the function returns the value, the program prints whether num1 is greater than num2, or not.&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-16&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-15&#34;&gt;
   &lt;summary&gt;Click to see the answer.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# In-class Exercise 1
 
@@ -1208,7 +1193,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-971625843&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-382746951&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1218,7 +1203,7 @@ Demo:
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-971625843&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-382746951&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
