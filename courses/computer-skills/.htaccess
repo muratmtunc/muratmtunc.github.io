@@ -1,4 +1,5 @@
 AuthType Basic
 AuthName "Please Log in"
-AuthUserFile "/muratmtunc.github.io/courses/computer-skills/.htpasswd"
+C:\Users\MMTUNC\OneDrive - Tilburg University\Desktop\GitHub\muratmtunc.github.io\courses\computer-skills
+AuthUserFile "C:/Users/MMTUNC/OneDrive - Tilburg University/Desktop/GitHub/muratmtunc.github.io/courses/computer-skills/.htpasswd"
 Require valid-user
