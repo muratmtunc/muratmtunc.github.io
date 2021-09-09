@@ -23,11 +23,14 @@
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 62 minutes video lecture&lt;/p&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Computer_Skills_Slides_Lecture_1.pdf&#34; target=&#34;_blank&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Computer_Skills_Slides_Lecture_1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h2&gt;
 
@@ -139,11 +142,14 @@ print(&amp;quot;Hello World!&amp;quot;)
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 45 minutes video lecture, 40 minutes coding practice time.&lt;/p&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Computer_Skills_Slides_Lecture_2.pdf&#34; target=&#34;_blank&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Computer_Skills_Slides_Lecture_2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h2&gt;
 &lt;h2 id=&#34;review-questions&#34;&gt;Review Questions&lt;/h2&gt;
@@ -355,11 +361,14 @@ print(&amp;quot;The result is&amp;quot;, result)
 &lt;/p&gt;
 &lt;/details&gt;
 &lt;h2 id=&#34;answers-to-programming-exercises&#34;&gt;Answers to Programming Exercises&lt;/h2&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Lecture_2_Answers_Programming_Exercises.pdf&#34; target=&#34;_blank&#34;&gt;Please find the answers to programming exercises by clicking here.&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Lecture_2_Answers_Programming_Exercises.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the answers to programming exercises by clicking here.&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;feedback&#34;&gt;Feedback&lt;/h2&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
@@ -383,11 +392,14 @@ print(&amp;quot;The result is&amp;quot;, result)
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 50 minutes video lecture, 40 minutes coding practice time.&lt;/p&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Computer_Skills_Slides_Lecture_3.pdf&#34; target=&#34;_blank&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Computer_Skills_Slides_Lecture_3.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h2&gt;
 &lt;h2 id=&#34;review-questions&#34;&gt;Review Questions&lt;/h2&gt;
@@ -678,11 +690,14 @@ else:
 &lt;/p&gt;
 &lt;/details&gt;
 &lt;h2 id=&#34;answers-to-programming-exercises&#34;&gt;Answers to Programming Exercises&lt;/h2&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Lecture_3_Answers_Programming_Exercises.pdf&#34; target=&#34;_blank&#34;&gt;Please find the answers to programming exercises by clicking here.&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Lecture_3_Answers_Programming_Exercises.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the answers to programming exercises by clicking here.&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;feedback&#34;&gt;Feedback&lt;/h2&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
@@ -706,11 +721,14 @@ else:
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1 hour video lecture, 15 minutes coding practice time.&lt;/p&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Computer_Skills_Slides_Lecture_4.pdf&#34; target=&#34;_blank&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Computer_Skills_Slides_Lecture_4.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h2&gt;
 &lt;h2 id=&#34;review-questions&#34;&gt;Review Questions&lt;/h2&gt;
@@ -872,11 +890,14 @@ else:
 &lt;/p&gt;
 &lt;/details&gt;
 &lt;h2 id=&#34;answers-to-programming-exercises&#34;&gt;Answers to Programming Exercises&lt;/h2&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Lecture_4_Answers_Programming_Exercises.pdf&#34; target=&#34;_blank&#34;&gt;Please find the answers to programming exercises by clicking here.&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Lecture_4_Answers_Programming_Exercises.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the answers to programming exercises by clicking here.&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;feedback&#34;&gt;Feedback&lt;/h2&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;

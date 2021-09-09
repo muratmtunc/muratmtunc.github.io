@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Please Log in"
-AuthUserFile "muratmtunc.github.io/courses/computer-skills/.htpasswd"
-Require valid-user
