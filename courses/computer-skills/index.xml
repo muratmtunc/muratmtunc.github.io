@@ -152,8 +152,23 @@ print(&amp;quot;Hello World!&amp;quot;)
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;video-lectures&#34;&gt;Video Lectures&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/VL_V1nW0KyY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/PVEmxyT6mGc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/gRs4Y4P_Uf0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;h2 id=&#34;review-questions&#34;&gt;Review Questions&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
   &lt;summary&gt;1: input() statement reads in a value from the user as numeric. (T/F)?&lt;/summary&gt;
   &lt;p&gt;False&lt;/p&gt;
 &lt;/details&gt;
@@ -161,7 +176,7 @@ print(&amp;quot;Hello World!&amp;quot;)
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;radius = 7.5
 print (&amp;quot;radius&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;radius&lt;/p&gt;
 &lt;/details&gt;
@@ -169,7 +184,7 @@ print (&amp;quot;radius&amp;quot;)
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;radius = 7.5
 print (radius)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-7&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;7.5&lt;/p&gt;
 &lt;/details&gt;
@@ -183,35 +198,35 @@ print (radius)
 &lt;li&gt;d+7&lt;/li&gt;
 &lt;li&gt;True&lt;/li&gt;
 &lt;/ul&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-8&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;a, radiusOfTheCircle&lt;/p&gt;
 &lt;/details&gt;
 &lt;p&gt;5: What is the value stored in count?&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;count = 7 / 3
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-9&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;2.3333&lt;/p&gt;
 &lt;/details&gt;
 &lt;p&gt;6: What is the value stored in test?&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;test = 7 % 3
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-7&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-10&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;1&lt;/p&gt;
 &lt;/details&gt;
 &lt;p&gt;7: What is the value stored in count?&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;count = 7 // 3
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-8&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-11&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;2&lt;/p&gt;
 &lt;/details&gt;
 &lt;p&gt;8: What is the value stored in test?&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;test = 7.5 // 3
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-9&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-12&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;2.0&lt;/p&gt;
 &lt;/details&gt;
@@ -219,7 +234,7 @@ print (radius)
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;x = 5
 x /= 2
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-10&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-13&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;2.5&lt;/p&gt;
 &lt;/details&gt;
@@ -227,7 +242,7 @@ x /= 2
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;test = 5
 test += test + 1
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-11&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-14&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;11&lt;/p&gt;
 &lt;/details&gt;
@@ -235,12 +250,12 @@ test += test + 1
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;x = 5
 x //= 2
 &lt;/code&gt;&lt;/pre&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-12&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-15&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;11&lt;/p&gt;
 &lt;/details&gt;
 &lt;h2 id=&#34;in-class-programming-exercises&#34;&gt;In-class Programming Exercises&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-13&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-16&#34;&gt;
   &lt;summary&gt;1: Write a program that reads in an input as the radius of a circle from the user, and calculates and prints the area of a circle.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# In-class Exercise 1
 
@@ -256,7 +271,7 @@ print(&amp;quot;The area of a circle with the radius&amp;quot;, radius, &amp;quo
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/p&gt;
 &lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-14&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-17&#34;&gt;
   &lt;summary&gt;2: Write a program that reads in a Celsius degree from the user, converts Celsius to Fahrenheit degree, and displays the result.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# In-class Exercise 2
 
@@ -272,7 +287,7 @@ print(&amp;quot;Celsius degree of&amp;quot;, celsius, &amp;quot;is equal to&amp;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/p&gt;
 &lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-15&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-18&#34;&gt;
   &lt;summary&gt;3: Write a program that reads three numbers from the user and displays their average.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# In-class Exercise 3
 
@@ -289,7 +304,7 @@ print(&amp;quot;The average of the three numbers is&amp;quot;, average)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/p&gt;
 &lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-16&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-19&#34;&gt;
   &lt;summary&gt;4: Write a program to obtain minutes and remaining seconds from an amount of time in seconds. Example : Convert 200 seconds to 3 minutes and 20 seconds.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# In-class exercise 4
 
@@ -306,7 +321,7 @@ print(timeInSeconds , &amp;quot;seconds equals to&amp;quot;, minutes, &amp;quot;
 &lt;/p&gt;
 &lt;/details&gt;
 &lt;h2 id=&#34;practice-at-home-programming-exercises&#34;&gt;Practice-at-home Programming Exercises&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-17&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-20&#34;&gt;
   &lt;summary&gt;1: Write a program that reads a two digit integer from the user and swap its digits to create a new integer. Example: if the integer is 93, after swapping it becomes 39.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Practice exercise 1
 
@@ -323,7 +338,7 @@ print(&amp;quot;After the swap, the new number is&amp;quot;, numberAfterSwap)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/p&gt;
 &lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-18&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-21&#34;&gt;
   &lt;summary&gt;2: Write a program that reads numbers for radius and length from the user, and displays the volume of a cylinder on console. The formulas for area and volume are as follows: area = radius * radius * pi; volume = area * length.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Practice Exercise 2
 
@@ -344,7 +359,7 @@ print(&amp;quot;The volume of a cylinder with the radius&amp;quot;, radius, &amp
 &lt;p&gt;$$
 y^{x-7} + \frac{x+y}{4} - \frac{2(x-y) + 3}{5} + \frac{y}{3x - 10} 
 $$&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-19&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-22&#34;&gt;
   &lt;summary&gt;Click to see the answer.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Practice Exercise 3
 
@@ -360,11 +375,11 @@ print(&amp;quot;The result is&amp;quot;, result)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/p&gt;
 &lt;/details&gt;
-&lt;h2 id=&#34;answers-to-programming-exercises&#34;&gt;Answers to Programming Exercises&lt;/h2&gt;
+&lt;h2 id=&#34;solutions-to-programming-exercises&#34;&gt;Solutions to Programming Exercises&lt;/h2&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Lecture_2_Answers_Programming_Exercises.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the answers to programming exercises by clicking here.&lt;/a&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Lecture_2_Programming_Solutions.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the answers to programming exercises by clicking here.&lt;/a&gt;
   &lt;/li&gt;
   
   
