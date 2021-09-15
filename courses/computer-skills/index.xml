@@ -140,7 +140,7 @@ print(&amp;quot;Hello World!&amp;quot;)
 &lt;p&gt;November 16, 2021.&lt;/p&gt;
 &lt;p&gt;Elementary Programming&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 45 minutes video lecture, 40 minutes coding practice time.&lt;/p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 92 minutes video lecture, 20 minutes coding practice time.&lt;/p&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
@@ -356,9 +356,7 @@ print(&amp;quot;The volume of a cylinder with the radius&amp;quot;, radius, &amp
 &lt;/p&gt;
 &lt;/details&gt;
 &lt;p&gt;3: Write a program that reads the values of x and y from the user, and display the result after the following calculation.&lt;/p&gt;
-&lt;p&gt;$$
-y^{x-7} + \frac{x+y}{4} - \frac{2(x-y) + 3}{5} + \frac{y}{3x - 10} 
-$$&lt;/p&gt;
+&lt;p&gt;$$ y^{x-7} + \frac{x+y}{4} - \frac{2(x-y) + 3}{5} + \frac{y}{3x - 10} $$&lt;/p&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-22&#34;&gt;
   &lt;summary&gt;Click to see the answer.&lt;/summary&gt;
   &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Practice Exercise 3
