@@ -793,13 +793,23 @@ Functions" /><meta property="og:image" content="https://muratmtunc.github.io/med
 </ul>
 
 <h2 id="video-lectures">Video Lectures</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/daMFYfU9PaY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/7lUzXHdyUW0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
 <h2 id="review-questions">Review Questions</h2>
 <p>1: What is the value of integer?</p>
 <pre><code class="language-python">def myInteger (num1, num2):
     return num2 - num1
 integer = myInteger (5, 14)
 </code></pre>
-<details class="spoiler "  id="spoiler-2">
+<details class="spoiler "  id="spoiler-4">
   <summary>Click here to see the answer.</summary>
   <p>9</p>
 </details>
@@ -808,7 +818,7 @@ integer = myInteger (5, 14)
     return num2 % num1
 integer = myInteger (5, 14)
 </code></pre>
-<details class="spoiler "  id="spoiler-3">
+<details class="spoiler "  id="spoiler-5">
   <summary>Click here to see the answer.</summary>
   <p>5</p>
 </details>
@@ -817,7 +827,7 @@ integer = myInteger (5, 14)
     return num2 / num1
 integer = myInteger (5, 14)
 </code></pre>
-<details class="spoiler "  id="spoiler-4">
+<details class="spoiler "  id="spoiler-6">
   <summary>Click here to see the answer.</summary>
   <p>2.8</p>
 </details>
@@ -826,7 +836,7 @@ integer = myInteger (5, 14)
     return num2 // num1
 integer = myInteger (5, 14)
 </code></pre>
-<details class="spoiler "  id="spoiler-5">
+<details class="spoiler "  id="spoiler-7">
   <summary>Click here to see the answer.</summary>
   <p>2</p>
 </details>
@@ -835,7 +845,7 @@ integer = myInteger (5, 14)
     print(num2 / num1)
 integer = myInteger (5, 14)
 </code></pre>
-<details class="spoiler "  id="spoiler-6">
+<details class="spoiler "  id="spoiler-8">
   <summary>Click here to see the answer.</summary>
   <p>None. myInteger function does not return a value.</p>
 </details>
@@ -844,7 +854,7 @@ integer = myInteger (5, 14)
     print(string + number)
 myPrint(5, 14)
 </code></pre>
-<details class="spoiler "  id="spoiler-7">
+<details class="spoiler "  id="spoiler-9">
   <summary>Click here to see the answer.</summary>
   <p>19</p>
 </details>
@@ -853,7 +863,7 @@ myPrint(5, 14)
     print(string, number)
 myPrint(5, 14)
 </code></pre>
-<details class="spoiler "  id="spoiler-8">
+<details class="spoiler "  id="spoiler-10">
   <summary>Click here to see the answer.</summary>
   <p>5 14</p>
 </details>
@@ -862,7 +872,7 @@ myPrint(5, 14)
     print(string + number)
 myPrint(&quot;5&quot;, 14)
 </code></pre>
-<details class="spoiler "  id="spoiler-9">
+<details class="spoiler "  id="spoiler-11">
   <summary>Click here to see the answer.</summary>
   <p>Error. &ldquo;5&rdquo; + 14 is a syntax error, since &ldquo;5&rdquo; is text (i.e. string) whereas 14 is a number</p>
 </details>
@@ -873,7 +883,7 @@ myPrint(&quot;5&quot;, 14)
     return num1 + num2
 value = mySum (10, 2)
 </code></pre>
-<details class="spoiler "  id="spoiler-10">
+<details class="spoiler "  id="spoiler-12">
   <summary>Click here to see the answer.</summary>
   <p>Error, num 2 is not defined in the function header.</p>
 </details>
@@ -885,7 +895,7 @@ value = mySum (10, 2)
     num1 += 10
 value = mySum (10, 2)
 </code></pre>
-<details class="spoiler "  id="spoiler-11">
+<details class="spoiler "  id="spoiler-13">
   <summary>Click here to see the answer.</summary>
   <p>It is OK, runs without error. However, there is an unreachable code after return. The function terminates after return, so please do not write any statement after return.</p>
 </details>
@@ -898,7 +908,7 @@ value = mySum (10, 2)
     return num1 + num2
 value = mySum (10, 2)
 </code></pre>
-<details class="spoiler "  id="spoiler-12">
+<details class="spoiler "  id="spoiler-14">
   <summary>Click here to see the answer.</summary>
   <p>It is OK, runs without error. The second return statement is not executed, but Python does not terminate due to a syntax error.</p>
 </details>
@@ -911,7 +921,7 @@ def mySum (num1, num2):
     num1 += 10
     return num1 + num2
 </code></pre>
-<details class="spoiler "  id="spoiler-13">
+<details class="spoiler "  id="spoiler-15">
   <summary>Click here to see the answer.</summary>
   <p>No, there is a syntax error in this program. The function was not defined before it was invoked. Always define the function before invoking it.</p>
 </details>
@@ -925,13 +935,13 @@ num2 = myInteger(33, num1)
 print (myInteger (num1 * num2, num2) )
 print (num2) 
 </code></pre>
-<details class="spoiler "  id="spoiler-14">
+<details class="spoiler "  id="spoiler-16">
   <summary>Click here to see the answer.</summary>
   <p>First, it prints 6, then 9, then 3, and finally 3.</p>
 </details>
 <h2 id="in-class-programming-exercises">In-class Programming Exercises</h2>
 <p>1: Write a program that asks the user to enter two integers: num1 and num2. Then, the program invokes a function that takes two integers. This function returns true if the first number is greater than the second one, else it returns false. After the function returns the value, the program prints whether num1 is greater than num2, or not.</p>
-<details class="spoiler "  id="spoiler-15">
+<details class="spoiler "  id="spoiler-17">
   <summary>Click to see the answer.</summary>
   <p><pre><code class="language-python"># In-class Exercise 1
 
@@ -955,7 +965,7 @@ else:
 <ul class="cta-group">
   
   <li>
-    <a href="/uploads/Lecture_4_Answers_Programming_Exercises.pdf" target="_blank" rel="noopener" class="btn btn-primary px-3 py-3">Please find the answers to programming exercises by clicking here.</a>
+    <a href="/uploads/Lecture_4_Programming_Solutions.pdf" target="_blank" rel="noopener" class="btn btn-primary px-3 py-3">Please find the answers to programming exercises by clicking here.</a>
   </li>
   
   
