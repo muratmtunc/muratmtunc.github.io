@@ -597,7 +597,7 @@ elif not (age &amp;gt; 18 or height &amp;gt; 190):
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
   &lt;p&gt;This program does not print anything.&lt;/p&gt;
 &lt;/details&gt;
-&lt;p&gt;14: What does the following program print?&lt;/p&gt;
+&lt;p&gt;15: What does the following program print?&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;score = 75
 age = 19
 height = 181
