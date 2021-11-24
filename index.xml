@@ -13,6 +13,32 @@
     </image>
     
     <item>
+      <title>1. Randomized Experiments</title>
+      <link>https://muratmtunc.github.io/courses/causal-inference/randomized-experiments/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/causal-inference/randomized-experiments/</guid>
+      <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_1_Voucher_Success_RE.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 1 - Voucher Success RE&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;stata-code&#34;&gt;Stata Code&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_1_Randomized_Experiment.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 1 - Randomized Experiments&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Module 4. Blockchain</title>
       <link>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/blockchain/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
@@ -189,6 +215,32 @@ print(&amp;quot;Hello World!&amp;quot;)
     </item>
     
     <item>
+      <title>2. Natural Experiments</title>
+      <link>https://muratmtunc.github.io/courses/causal-inference/natural-experiments-did/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/causal-inference/natural-experiments-did/</guid>
+      <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_2_Minimum_Wage_Employment_DiD.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 2 - Minimum Wage Employment DiD&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;stata-code&#34;&gt;Stata Code&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_2_Diff-in-diff.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 2 - Difference in Differences&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Module 5. Internet of Things</title>
       <link>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/internet-of-things/</link>
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
@@ -198,7 +250,7 @@ print(&amp;quot;Hello World!&amp;quot;)
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 2:45 pm - 4:30 pm&lt;/p&gt;
 &lt;p&gt;Internet of Things.&lt;/p&gt;
-&lt;p&gt;Hybrid lecture at CZ 121 with Zoom session&lt;/p&gt;
+&lt;p&gt;Hybrid lecture at GZ 101 with Zoom session&lt;/p&gt;
 &lt;h2 id=&#34;video-lecture&#34;&gt;Video Lecture&lt;/h2&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -502,6 +554,32 @@ print(&amp;quot;The result is&amp;quot;, result)
   
   &lt;li&gt;
     &lt;a href=&#34;https://muratmtunc.github.io/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;What do you think about this lecture? Please comment below or send me an email.&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>3. Regression Discontinuity</title>
+      <link>https://muratmtunc.github.io/courses/causal-inference/regression-discontinuity/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/causal-inference/regression-discontinuity/</guid>
+      <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_3_Drinking_Age_Accidents_RD.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 3 - Drinking Age Accidents RD&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;stata-code&#34;&gt;Stata Code&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_3_Regression_Discontinuity.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 3 - Regression Discontinuity&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -906,6 +984,32 @@ else:
   
   &lt;li&gt;
     &lt;a href=&#34;https://muratmtunc.github.io/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;What do you think about this lecture? Please comment below or send me an email.&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>4. Instrumental Variables</title>
+      <link>https://muratmtunc.github.io/courses/causal-inference/instrumental-variables/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/causal-inference/instrumental-variables/</guid>
+      <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_4_Schooling_Wage_IV.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 4 - Schooling Wage IV&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;stata-code&#34;&gt;Stata Code&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_4_Instrumental_Variables.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 4 - Instrumental Variables&lt;/a&gt;
   &lt;/li&gt;
   
   

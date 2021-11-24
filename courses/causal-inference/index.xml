@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Causal Inference | Murat M. Tunc</title>
+    <link>https://muratmtunc.github.io/courses/causal-inference/</link>
+      <atom:link href="https://muratmtunc.github.io/courses/causal-inference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Causal Inference</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - Murat M. Tunc</copyright><lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://muratmtunc.github.io/media/icon_hu871abc075ca099e375a6d46bfebb63d2_43165_512x512_fill_lanczos_center_3.png</url>
+      <title>Causal Inference</title>
+      <link>https://muratmtunc.github.io/courses/causal-inference/</link>
+    </image>
+    
+    <item>
+      <title>1. Randomized Experiments</title>
+      <link>https://muratmtunc.github.io/courses/causal-inference/randomized-experiments/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/causal-inference/randomized-experiments/</guid>
+      <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_1_Voucher_Success_RE.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 1 - Voucher Success RE&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;stata-code&#34;&gt;Stata Code&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_1_Randomized_Experiment.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 1 - Randomized Experiments&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2. Natural Experiments</title>
+      <link>https://muratmtunc.github.io/courses/causal-inference/natural-experiments-did/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/causal-inference/natural-experiments-did/</guid>
+      <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_2_Minimum_Wage_Employment_DiD.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 2 - Minimum Wage Employment DiD&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;stata-code&#34;&gt;Stata Code&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_2_Diff-in-diff.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 2 - Difference in Differences&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>3. Regression Discontinuity</title>
+      <link>https://muratmtunc.github.io/courses/causal-inference/regression-discontinuity/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/causal-inference/regression-discontinuity/</guid>
+      <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_3_Drinking_Age_Accidents_RD.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 3 - Drinking Age Accidents RD&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;stata-code&#34;&gt;Stata Code&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_3_Regression_Discontinuity.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 3 - Regression Discontinuity&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>4. Instrumental Variables</title>
+      <link>https://muratmtunc.github.io/courses/causal-inference/instrumental-variables/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/causal-inference/instrumental-variables/</guid>
+      <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_4_Schooling_Wage_IV.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 4 - Schooling Wage IV&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;stata-code&#34;&gt;Stata Code&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_4_Instrumental_Variables.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 4 - Instrumental Variables&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
