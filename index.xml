@@ -39,66 +39,9 @@
     </item>
     
     <item>
-      <title>Module 4. Blockchain</title>
-      <link>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/blockchain/</link>
-      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/blockchain/</guid>
-      <description>&lt;p&gt;Module 4.&lt;/p&gt;
-&lt;p&gt;November 16, 2021.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 2:45 pm - 4:30 pm&lt;/p&gt;
-&lt;p&gt;Blockchain.&lt;/p&gt;
-&lt;p&gt;Hybrid lecture at CZ 121 with Zoom session&lt;/p&gt;
-&lt;h2 id=&#34;video-lecture&#34;&gt;Video Lecture&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/RPoNYYkRh2w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Slides_Module_4_Blockchain.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;readings&#34;&gt;Readings&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_4_Bitcoin.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 1 - Bitcoin A Peer-to-Peer Electronic Cash System&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_4_DLT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 2 - A Comprehensive Reference Model for Distributed Ledger Technology&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;feedback&#34;&gt;Feedback&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;What do you think about this lecture? Please comment below or send me an email.&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
       <title>1. Introduction to Python</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/introduction-to-computers/</link>
-      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/introduction-to-computers/</guid>
       <description>&lt;p&gt;Lecture 1.&lt;/p&gt;
 &lt;p&gt;November 9, 2021.&lt;/p&gt;
@@ -241,66 +184,9 @@ print(&amp;quot;Hello World!&amp;quot;)
     </item>
     
     <item>
-      <title>Module 5. Internet of Things</title>
-      <link>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/internet-of-things/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/internet-of-things/</guid>
-      <description>&lt;p&gt;Module 5.&lt;/p&gt;
-&lt;p&gt;November 23, 2021.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 2:45 pm - 4:30 pm&lt;/p&gt;
-&lt;p&gt;Internet of Things.&lt;/p&gt;
-&lt;p&gt;Hybrid lecture at GZ 101 with Zoom session&lt;/p&gt;
-&lt;h2 id=&#34;video-lecture&#34;&gt;Video Lecture&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/j8mh6OhlfJ8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Slides_Module_5_IoT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;readings&#34;&gt;Readings&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_5_Econ_of_IoT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 1 - Economics of Internet of Things&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_5_IoT_in_Enterprise.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 2 - The Internet of Things in an Enterprise Context&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;feedback&#34;&gt;Feedback&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;What do you think about this lecture? Please comment below or send me an email.&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
       <title>2. Elementary Programming</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/elementary-programming/</link>
-      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/elementary-programming/</guid>
       <description>&lt;p&gt;Lecture 2.&lt;/p&gt;
 &lt;p&gt;November 16, 2021.&lt;/p&gt;
@@ -561,25 +447,113 @@ print(&amp;quot;The result is&amp;quot;, result)
     </item>
     
     <item>
-      <title>3. Regression Discontinuity</title>
-      <link>https://muratmtunc.github.io/courses/causal-inference/regression-discontinuity/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/courses/causal-inference/regression-discontinuity/</guid>
-      <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
+      <title>Module 4. Blockchain</title>
+      <link>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/blockchain/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/blockchain/</guid>
+      <description>&lt;p&gt;Module 4.&lt;/p&gt;
+&lt;p&gt;November 16, 2021.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 2:45 pm - 4:30 pm&lt;/p&gt;
+&lt;p&gt;Blockchain.&lt;/p&gt;
+&lt;p&gt;Hybrid lecture at CZ 121 with Zoom session&lt;/p&gt;
+&lt;h2 id=&#34;video-lecture&#34;&gt;Video Lecture&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/RPoNYYkRh2w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_3_Drinking_Age_Accidents_RD.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 3 - Drinking Age Accidents RD&lt;/a&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Slides_Module_4_Blockchain.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
   &lt;/li&gt;
   
   
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;stata-code&#34;&gt;Stata Code&lt;/h2&gt;
+&lt;h2 id=&#34;readings&#34;&gt;Readings&lt;/h2&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_3_Regression_Discontinuity.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 3 - Regression Discontinuity&lt;/a&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_4_Bitcoin.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 1 - Bitcoin A Peer-to-Peer Electronic Cash System&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_4_DLT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 2 - A Comprehensive Reference Model for Distributed Ledger Technology&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;feedback&#34;&gt;Feedback&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;What do you think about this lecture? Please comment below or send me an email.&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Module 5. Internet of Things</title>
+      <link>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/internet-of-things/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/internet-of-things/</guid>
+      <description>&lt;p&gt;Module 5.&lt;/p&gt;
+&lt;p&gt;November 23, 2021.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 2:45 pm - 4:30 pm&lt;/p&gt;
+&lt;p&gt;Internet of Things.&lt;/p&gt;
+&lt;p&gt;Hybrid lecture at GZ 101 with Zoom session&lt;/p&gt;
+&lt;h2 id=&#34;video-lecture&#34;&gt;Video Lecture&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/j8mh6OhlfJ8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Slides_Module_5_IoT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;readings&#34;&gt;Readings&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_5_Econ_of_IoT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 1 - Economics of Internet of Things&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_5_IoT_in_Enterprise.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 2 - The Internet of Things in an Enterprise Context&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;feedback&#34;&gt;Feedback&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;What do you think about this lecture? Please comment below or send me an email.&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -589,7 +563,7 @@ print(&amp;quot;The result is&amp;quot;, result)
     <item>
       <title>Module 6. Social Network Analysis</title>
       <link>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/social-network-analysis/</link>
-      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/social-network-analysis/</guid>
       <description>&lt;p&gt;Module 6.&lt;/p&gt;
 &lt;p&gt;December 1, 2021.&lt;/p&gt;
@@ -647,9 +621,35 @@ print(&amp;quot;The result is&amp;quot;, result)
     </item>
     
     <item>
+      <title>3. Regression Discontinuity</title>
+      <link>https://muratmtunc.github.io/courses/causal-inference/regression-discontinuity/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/causal-inference/regression-discontinuity/</guid>
+      <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_3_Drinking_Age_Accidents_RD.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 3 - Drinking Age Accidents RD&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;stata-code&#34;&gt;Stata Code&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_3_Regression_Discontinuity.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 3 - Regression Discontinuity&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>3. Selections</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/selections/</link>
-      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/selections/</guid>
       <description>&lt;p&gt;Lecture 3.&lt;/p&gt;
 &lt;p&gt;November 23, 2021.&lt;/p&gt;
@@ -991,35 +991,9 @@ else:
     </item>
     
     <item>
-      <title>4. Instrumental Variables</title>
-      <link>https://muratmtunc.github.io/courses/causal-inference/instrumental-variables/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/courses/causal-inference/instrumental-variables/</guid>
-      <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_4_Schooling_Wage_IV.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 4 - Schooling Wage IV&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;stata-code&#34;&gt;Stata Code&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_4_Instrumental_Variables.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 4 - Instrumental Variables&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
       <title>4. Functions</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/functions/</link>
-      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/functions/</guid>
       <description>&lt;p&gt;Lecture 4.&lt;/p&gt;
 &lt;p&gt;November 30, 2021.&lt;/p&gt;
@@ -1220,6 +1194,32 @@ else:
   
   &lt;li&gt;
     &lt;a href=&#34;https://muratmtunc.github.io/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;What do you think about this lecture? Please comment below or send me an email.&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>4. Instrumental Variables</title>
+      <link>https://muratmtunc.github.io/courses/causal-inference/instrumental-variables/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/causal-inference/instrumental-variables/</guid>
+      <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_4_Schooling_Wage_IV.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 4 - Schooling Wage IV&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;stata-code&#34;&gt;Stata Code&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_4_Instrumental_Variables.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 4 - Instrumental Variables&lt;/a&gt;
   &lt;/li&gt;
   
   
