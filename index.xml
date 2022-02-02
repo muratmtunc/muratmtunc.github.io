@@ -5,7 +5,7 @@
     <link>https://muratmtunc.github.io/</link>
       <atom:link href="https://muratmtunc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Murat M. Tunc</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - Murat M. Tunc</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - Murat M. Tunc</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://muratmtunc.github.io/media/icon_hu871abc075ca099e375a6d46bfebb63d2_43165_512x512_fill_lanczos_center_3.png</url>
       <title>Murat M. Tunc</title>
@@ -304,7 +304,7 @@ x //= 2
 &lt;/code&gt;&lt;/pre&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-15&#34;&gt;
   &lt;summary&gt;Click here to see the answer.&lt;/summary&gt;
-  &lt;p&gt;11&lt;/p&gt;
+  &lt;p&gt;2&lt;/p&gt;
 &lt;/details&gt;
 &lt;h2 id=&#34;in-class-programming-exercises&#34;&gt;In-class Programming Exercises&lt;/h2&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-16&#34;&gt;
@@ -1232,15 +1232,15 @@ else:
     </item>
     
     <item>
-      <title>Impact of Resale Royalty on Primary and Secondary Sale Prices in the Non-Fungible Token Marketplace</title>
-      <link>https://muratmtunc.github.io/talk/impact-of-resale-royalty-on-primary-and-secondary-sale-prices-in-the-non-fungible-token-marketplace/</link>
+      <title>Impact of Resale Royalty on Sale Prices and Market Liquidity in the NFT Marketplace</title>
+      <link>https://muratmtunc.github.io/talk/impact-of-resale-royalty-on-sale-prices-and-market-liquidity-in-the-nft-marketplace/</link>
       <pubDate>Sat, 23 Oct 2021 13:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/talk/impact-of-resale-royalty-on-primary-and-secondary-sale-prices-in-the-non-fungible-token-marketplace/</guid>
+      <guid>https://muratmtunc.github.io/talk/impact-of-resale-royalty-on-sale-prices-and-market-liquidity-in-the-nft-marketplace/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Impact of Resale Royalty on Primary and Secondary Sale Prices in the Non-Fungible Token Marketplace</title>
+      <title>Impact of Resale Royalty on Sale Prices and Market Liquidty in the NFT Marketplace</title>
       <link>https://muratmtunc.github.io/publication/rarible/</link>
       <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/publication/rarible/</guid>
