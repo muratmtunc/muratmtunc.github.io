@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giannis Kanellopoulos | Murat M. Tunc</title>
+    <link>https://muratmtunc.github.io/author/giannis-kanellopoulos/</link>
+      <atom:link href="https://muratmtunc.github.io/author/giannis-kanellopoulos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giannis Kanellopoulos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - Murat M. Tunc</copyright><lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://muratmtunc.github.io/author/giannis-kanellopoulos/avatar_hufe5b0ba536e8a717117d524d5ee9ed70_51747_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Giannis Kanellopoulos</title>
+      <link>https://muratmtunc.github.io/author/giannis-kanellopoulos/</link>
+    </image>
+    
+    <item>
+      <title>How free market entry affects market quality: Evidence from non-fungible tokens</title>
+      <link>https://muratmtunc.github.io/publication/lazy-minting/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/lazy-minting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

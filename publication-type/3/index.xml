@@ -5,7 +5,7 @@
     <link>https://muratmtunc.github.io/publication-type/3/</link>
       <atom:link href="https://muratmtunc.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - Murat M. Tunc</copyright><lastBuildDate>Sat, 23 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - Murat M. Tunc</copyright><lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://muratmtunc.github.io/media/icon_hu871abc075ca099e375a6d46bfebb63d2_43165_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
@@ -13,7 +13,23 @@
     </image>
     
     <item>
-      <title>Impact of Resale Royalty on Sale Prices and Market Liquidty in the NFT Marketplace</title>
+      <title>Giving back to the community: Cross-platform spillover effects of donation based funding of open source contributors</title>
+      <link>https://muratmtunc.github.io/publication/so-gh/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/so-gh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How free market entry affects market quality: Evidence from non-fungible tokens</title>
+      <link>https://muratmtunc.github.io/publication/lazy-minting/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/lazy-minting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Resale Royalty on Sale Prices and Market Liquidity in the NFT Marketplace</title>
       <link>https://muratmtunc.github.io/publication/rarible/</link>
       <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/publication/rarible/</guid>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ting Li | Murat M. Tunc</title>
+    <link>https://muratmtunc.github.io/author/ting-li/</link>
+      <atom:link href="https://muratmtunc.github.io/author/ting-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ting Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - Murat M. Tunc</copyright><lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://muratmtunc.github.io/author/ting-li/avatar_hu4470cfd8aaa70c9f95a037ec069e7561_81607_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ting Li</title>
+      <link>https://muratmtunc.github.io/author/ting-li/</link>
+    </image>
+    
+    <item>
+      <title>How free market entry affects market quality: Evidence from non-fungible tokens</title>
+      <link>https://muratmtunc.github.io/publication/lazy-minting/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/lazy-minting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

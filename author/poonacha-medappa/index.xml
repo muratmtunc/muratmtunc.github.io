@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poonacha Medappa | Murat M. Tunc</title>
+    <link>https://muratmtunc.github.io/author/poonacha-medappa/</link>
+      <atom:link href="https://muratmtunc.github.io/author/poonacha-medappa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Poonacha Medappa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - Murat M. Tunc</copyright><lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://muratmtunc.github.io/author/poonacha-medappa/avatar_hud2c6229774136f6cf7daa42871a9109e_89130_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Poonacha Medappa</title>
+      <link>https://muratmtunc.github.io/author/poonacha-medappa/</link>
+    </image>
+    
+    <item>
+      <title>Giving back to the community: Cross-platform spillover effects of donation based funding of open source contributors</title>
+      <link>https://muratmtunc.github.io/publication/so-gh/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/so-gh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

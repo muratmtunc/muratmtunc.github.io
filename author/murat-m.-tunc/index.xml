@@ -5,12 +5,28 @@
     <link>https://muratmtunc.github.io/author/murat-m.-tunc/</link>
       <atom:link href="https://muratmtunc.github.io/author/murat-m.-tunc/index.xml" rel="self" type="application/rss+xml" />
     <description>Murat M. Tunc</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - Murat M. Tunc</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - Murat M. Tunc</copyright><lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://muratmtunc.github.io/author/murat-m.-tunc/avatar_hu2edb4475fb9d1bd2f04ac12cca03f811_3145609_270x270_fill_lanczos_center_3.png</url>
       <title>Murat M. Tunc</title>
       <link>https://muratmtunc.github.io/author/murat-m.-tunc/</link>
     </image>
+    
+    <item>
+      <title>Giving back to the community: Cross-platform spillover effects of donation based funding of open source contributors</title>
+      <link>https://muratmtunc.github.io/publication/so-gh/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/so-gh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How free market entry affects market quality: Evidence from non-fungible tokens</title>
+      <link>https://muratmtunc.github.io/publication/lazy-minting/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/lazy-minting/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Online Product Reviews: Is a Finer-Grained Rating Scheme Superior to a Coarser One?</title>
@@ -21,7 +37,7 @@
     </item>
     
     <item>
-      <title>Impact of Resale Royalty on Sale Prices and Market Liquidty in the NFT Marketplace</title>
+      <title>Impact of Resale Royalty on Sale Prices and Market Liquidity in the NFT Marketplace</title>
       <link>https://muratmtunc.github.io/publication/rarible/</link>
       <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/publication/rarible/</guid>

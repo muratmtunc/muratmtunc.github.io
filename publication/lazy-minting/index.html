@@ -1,0 +1,1393 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Murat M. Tunc" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="The rising popularity of non-fungible tokens (NFTs) has led to an increase in the costs of minting digital assets into NFTs. This presents a threat for marketplaces that wish to attract NFT creators. To address this, some platforms allow creators to mint NFTs for free (lazy minting). Although this option is preferred by many, it remains unclear what the impact of lazy minting is on the market. In this work, we use data from Rarible to investigate how work quality is affected after lazy minting is introduced. We find that after the introduction, average market quality reduces by about 13.6%, while we estimate that existing creators who shift towards lazy minting reduce their work&#39;s quality by about 8%. We further estimate that lazy minted tokens receive fewer likes compared to other similar tokens. We discuss how we contribute to the literature and how we plan to extend our work." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://muratmtunc.github.io/publication/lazy-minting/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#3f51b5" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.14f34d344651100030f5586a7aaa2475.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu871abc075ca099e375a6d46bfebb63d2_43165_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu871abc075ca099e375a6d46bfebb63d2_43165_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://muratmtunc.github.io/publication/lazy-minting/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@drmuratmtunc" />
+    <meta property="twitter:creator" content="@drmuratmtunc" />
+  
+  <meta property="og:site_name" content="Murat M. Tunc" />
+  <meta property="og:url" content="https://muratmtunc.github.io/publication/lazy-minting/" />
+  <meta property="og:title" content="How free market entry affects market quality: Evidence from non-fungible tokens | Murat M. Tunc" />
+  <meta property="og:description" content="The rising popularity of non-fungible tokens (NFTs) has led to an increase in the costs of minting digital assets into NFTs. This presents a threat for marketplaces that wish to attract NFT creators. To address this, some platforms allow creators to mint NFTs for free (lazy minting). Although this option is preferred by many, it remains unclear what the impact of lazy minting is on the market. In this work, we use data from Rarible to investigate how work quality is affected after lazy minting is introduced. We find that after the introduction, average market quality reduces by about 13.6%, while we estimate that existing creators who shift towards lazy minting reduce their work&#39;s quality by about 8%. We further estimate that lazy minted tokens receive fewer likes compared to other similar tokens. We discuss how we contribute to the literature and how we plan to extend our work." /><meta property="og:image" content="https://muratmtunc.github.io/publication/lazy-minting/featured.jpg" />
+    <meta property="twitter:image" content="https://muratmtunc.github.io/publication/lazy-minting/featured.jpg" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2022-06-23T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2022-06-24T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://muratmtunc.github.io/publication/lazy-minting/"
+  },
+  "headline": "How free market entry affects market quality: Evidence from non-fungible tokens",
+  
+  "image": [
+    "https://muratmtunc.github.io/publication/lazy-minting/featured.jpg"
+  ],
+  
+  "datePublished": "2022-06-23T00:00:00Z",
+  "dateModified": "2022-06-24T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Giannis Kanellopoulos"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Tilburg School of Economics and Management",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://muratmtunc.github.io/media/icon_hu871abc075ca099e375a6d46bfebb63d2_43165_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "The rising popularity of non-fungible tokens (NFTs) has led to an increase in the costs of minting digital assets into NFTs. This presents a threat for marketplaces that wish to attract NFT creators. To address this, some platforms allow creators to mint NFTs for free (lazy minting). Although this option is preferred by many, it remains unclear what the impact of lazy minting is on the market. In this work, we use data from Rarible to investigate how work quality is affected after lazy minting is introduced. We find that after the introduction, average market quality reduces by about 13.6%, while we estimate that existing creators who shift towards lazy minting reduce their work's quality by about 8%. We further estimate that lazy minted tokens receive fewer likes compared to other similar tokens. We discuss how we contribute to the literature and how we plan to extend our work."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>How free market entry affects market quality: Evidence from non-fungible tokens | Murat M. Tunc</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="1e73612f6c09f6e9844c5f5e16644db7" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
+
+  
+
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Murat M. Tunc</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Murat M. Tunc</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#courses"><span>Courses</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+          
+          <li class="nav-item d-none d-lg-inline-flex">
+            <a class="nav-link" href="/"  aria-label="">
+              <i class="fas fa-" aria-hidden="true"></i>
+            </a>
+          </li>
+        
+      
+
+      
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>How free market entry affects market quality: Evidence from non-fungible tokens</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/giannis-kanellopoulos/">Giannis Kanellopoulos</a></span>, <span >
+      <a href="/author/dominik-gutt/">Dominik Gutt</a></span>, <span >
+      <a href="/author/murat-m.-tunc/">Murat M. Tunc</a></span>, <span >
+      <a href="/author/ting-li/">Ting Li</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    June 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/lazy-minting/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 404px;">
+  <div style="position: relative">
+    <img src="/publication/lazy-minting/featured_huf43eda30a59b113a57401103db0fa423_15763_720x0_resize_q75_lanczos.jpg" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">The rising popularity of non-fungible tokens (NFTs) has led to an increase in the costs of minting digital assets into NFTs. This presents a threat for marketplaces that wish to attract NFT creators. To address this, some platforms allow creators to mint NFTs for free (lazy minting). Although this option is preferred by many, it remains unclear what the impact of lazy minting is on the market. In this work, we use data from Rarible to investigate how work quality is affected after lazy minting is introduced. We find that after the introduction, average market quality reduces by about 13.6%, while we estimate that existing creators who shift towards lazy minting reduce their work&rsquo;s quality by about 8%. We further estimate that lazy minted tokens receive fewer likes compared to other similar tokens. We discuss how we contribute to the literature and how we plan to extend our work.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#3">
+              Preprint
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Working Paper</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://muratmtunc.github.io/publication/lazy-minting/&amp;text=How%20free%20market%20entry%20affects%20market%20quality:%20Evidence%20from%20non-fungible%20tokens" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://muratmtunc.github.io/publication/lazy-minting/&amp;t=How%20free%20market%20entry%20affects%20market%20quality:%20Evidence%20from%20non-fungible%20tokens" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=How%20free%20market%20entry%20affects%20market%20quality:%20Evidence%20from%20non-fungible%20tokens&amp;body=https://muratmtunc.github.io/publication/lazy-minting/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://muratmtunc.github.io/publication/lazy-minting/&amp;title=How%20free%20market%20entry%20affects%20market%20quality:%20Evidence%20from%20non-fungible%20tokens" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=How%20free%20market%20entry%20affects%20market%20quality:%20Evidence%20from%20non-fungible%20tokens%20https://muratmtunc.github.io/publication/lazy-minting/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://muratmtunc.github.io/publication/lazy-minting/&amp;title=How%20free%20market%20entry%20affects%20market%20quality:%20Evidence%20from%20non-fungible%20tokens" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/giannis-kanellopoulos/"><img class="avatar mr-3 avatar-circle" src="/author/giannis-kanellopoulos/avatar_hufe5b0ba536e8a717117d524d5ee9ed70_51747_270x270_fill_q75_lanczos_center.jpg" alt="Giannis Kanellopoulos"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/giannis-kanellopoulos/">Giannis Kanellopoulos</a></h5>
+      <h6 class="card-subtitle">PhD candidate</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/dominik-gutt/"><img class="avatar mr-3 avatar-circle" src="/author/dominik-gutt/avatar_hub68660feda36341647b5046cc1e02f89_46111_270x270_fill_q75_lanczos_center.jpg" alt="Dominik Gutt"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/dominik-gutt/">Dominik Gutt</a></h5>
+      <h6 class="card-subtitle">Assistant Professor</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://muratmtunc.github.io/"><img class="avatar mr-3 avatar-circle" src="/author/murat-m.-tunc/avatar_hu2edb4475fb9d1bd2f04ac12cca03f811_3145609_270x270_fill_lanczos_center_3.png" alt="Murat M. Tunc"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://muratmtunc.github.io/">Murat M. Tunc</a></h5>
+      <h6 class="card-subtitle">Assistant Professor of Information Systems</h6>
+      <p class="card-text">I am an Assistant Professor of Information Systems at Tilburg School of Economics and Management.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/" >
+        <i class="fas fa-"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=J_vJ4AEAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar-square"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2829851" target="_blank" rel="noopener">
+        <i class="ai ai-ssrn-square"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/drmuratmtunc" target="_blank" rel="noopener">
+        <i class="fab fa-twitter-square"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/muratmtunc/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/muratmtunc/" target="_blank" rel="noopener">
+        <i class="fab fa-github-square"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://muratmtunc.github.io/uploads/cv.pdf" target="_blank" rel="noopener">
+        <i class="ai ai-cv-square"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/ting-li/"><img class="avatar mr-3 avatar-circle" src="/author/ting-li/avatar_hu4470cfd8aaa70c9f95a037ec069e7561_81607_270x270_fill_q75_lanczos_center.jpg" alt="Ting Li"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/ting-li/">Ting Li</a></h5>
+      <h6 class="card-subtitle">Professor of Digital Business</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+  <p class="powered-by">
+    
+      <a href="/privacy/"></a>
+    
+    
+       &middot; 
+      <a href="/terms/"></a>
+    
+  </p>
+  
+
+  
+  <p class="powered-by">
+    © 2022 - Murat M. Tunc
+  </p>
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/latex.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+      <script id="dsq-count-scr" src="https://https-muratmtunc-github-io.disqus.com/count.js" async></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/en/js/wowchemy.min.99ddacf76b31e04b589f8ff7e550cbb8.js"></script>
+
+    
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+
+
+</body>
+</html>
