@@ -5,7 +5,7 @@
     <link>https://muratmtunc.github.io/</link>
       <atom:link href="https://muratmtunc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Murat M. Tunc</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - Murat M. Tunc</copyright><lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - Murat M. Tunc</copyright><lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://muratmtunc.github.io/media/icon_hu871abc075ca099e375a6d46bfebb63d2_43165_512x512_fill_lanczos_center_3.png</url>
       <title>Murat M. Tunc</title>
@@ -13,38 +13,11 @@
     </image>
     
     <item>
-      <title>1. Randomized Experiments</title>
-      <link>https://muratmtunc.github.io/courses/causal-inference/randomized-experiments/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/courses/causal-inference/randomized-experiments/</guid>
-      <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_1_Voucher_Success_RE.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 1 - Voucher Success RE&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;stata-code&#34;&gt;Stata Code&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_1_Randomized_Experiment.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 1 - Randomized Experiments&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
       <title>1. Introduction to Python</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/introduction-to-computers/</link>
-      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/introduction-to-computers/</guid>
       <description>&lt;p&gt;Lecture 1.&lt;/p&gt;
-&lt;p&gt;November 9, 2021.&lt;/p&gt;
 &lt;p&gt;Introduction to Computers, Programming, and Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 78 minutes video lecture&lt;/p&gt;
@@ -158,15 +131,15 @@ print(&amp;quot;Hello World!&amp;quot;)
     </item>
     
     <item>
-      <title>2. Natural Experiments</title>
-      <link>https://muratmtunc.github.io/courses/causal-inference/natural-experiments-did/</link>
+      <title>1. Randomized Experiments</title>
+      <link>https://muratmtunc.github.io/courses/causal-inference/randomized-experiments/</link>
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/courses/causal-inference/natural-experiments-did/</guid>
+      <guid>https://muratmtunc.github.io/courses/causal-inference/randomized-experiments/</guid>
       <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_2_Minimum_Wage_Employment_DiD.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 2 - Minimum Wage Employment DiD&lt;/a&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_1_Voucher_Success_RE.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 1 - Voucher Success RE&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -176,7 +149,7 @@ print(&amp;quot;Hello World!&amp;quot;)
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_2_Diff-in-diff.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 2 - Difference in Differences&lt;/a&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_1_Randomized_Experiment.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 1 - Randomized Experiments&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -186,10 +159,9 @@ print(&amp;quot;Hello World!&amp;quot;)
     <item>
       <title>2. Elementary Programming</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/elementary-programming/</link>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/elementary-programming/</guid>
       <description>&lt;p&gt;Lecture 2.&lt;/p&gt;
-&lt;p&gt;November 16, 2021.&lt;/p&gt;
 &lt;p&gt;Elementary Programming&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 92 minutes video lecture, 20 minutes coding practice time.&lt;/p&gt;
@@ -447,6 +419,32 @@ print(&amp;quot;The result is&amp;quot;, result)
     </item>
     
     <item>
+      <title>2. Natural Experiments</title>
+      <link>https://muratmtunc.github.io/courses/causal-inference/natural-experiments-did/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/causal-inference/natural-experiments-did/</guid>
+      <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_2_Minimum_Wage_Employment_DiD.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 2 - Minimum Wage Employment DiD&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;stata-code&#34;&gt;Stata Code&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_2_Diff-in-diff.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 2 - Difference in Differences&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Module 4. Blockchain</title>
       <link>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/blockchain/</link>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
@@ -561,95 +559,11 @@ print(&amp;quot;The result is&amp;quot;, result)
     </item>
     
     <item>
-      <title>Module 6. Social Network Analysis</title>
-      <link>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/social-network-analysis/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/social-network-analysis/</guid>
-      <description>&lt;p&gt;Module 6.&lt;/p&gt;
-&lt;p&gt;December 1, 2021.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 12:45 pm - 2:30 pm&lt;/p&gt;
-&lt;p&gt;Social Network Analysis.&lt;/p&gt;
-&lt;p&gt;Hybrid lecture at CZ 121 with Zoom session&lt;/p&gt;
-&lt;h2 id=&#34;video-lecture&#34;&gt;Video Lecture&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/m5-o5z9XTQY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Slides_Module_6_SNA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;readings&#34;&gt;Readings&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_6_Strength_of_Weak_Ties.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 1 - The Strength of Weak Ties&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_6_Structural_Holes_and_Good_Ideas.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 2 - Structural Holes and Good Ideas&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;feedback&#34;&gt;Feedback&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;What do you think about this lecture? Please comment below or send me an email.&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>3. Regression Discontinuity</title>
-      <link>https://muratmtunc.github.io/courses/causal-inference/regression-discontinuity/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/courses/causal-inference/regression-discontinuity/</guid>
-      <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_3_Drinking_Age_Accidents_RD.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 3 - Drinking Age Accidents RD&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;stata-code&#34;&gt;Stata Code&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_3_Regression_Discontinuity.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 3 - Regression Discontinuity&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
       <title>3. Selections</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/selections/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/selections/</guid>
       <description>&lt;p&gt;Lecture 3.&lt;/p&gt;
-&lt;p&gt;November 23, 2021.&lt;/p&gt;
 &lt;p&gt;Selections&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 94 minutes video lecture, 35 minutes coding practice time.&lt;/p&gt;
@@ -988,12 +902,94 @@ else:
     </item>
     
     <item>
+      <title>Module 6. Social Network Analysis</title>
+      <link>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/social-network-analysis/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/social-network-analysis/</guid>
+      <description>&lt;p&gt;Module 6.&lt;/p&gt;
+&lt;p&gt;December 1, 2021.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 12:45 pm - 2:30 pm&lt;/p&gt;
+&lt;p&gt;Social Network Analysis.&lt;/p&gt;
+&lt;p&gt;Hybrid lecture at CZ 121 with Zoom session&lt;/p&gt;
+&lt;h2 id=&#34;video-lecture&#34;&gt;Video Lecture&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/m5-o5z9XTQY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Slides_Module_6_SNA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;readings&#34;&gt;Readings&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_6_Strength_of_Weak_Ties.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 1 - The Strength of Weak Ties&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_6_Structural_Holes_and_Good_Ideas.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 2 - Structural Holes and Good Ideas&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;feedback&#34;&gt;Feedback&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;What do you think about this lecture? Please comment below or send me an email.&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>3. Regression Discontinuity</title>
+      <link>https://muratmtunc.github.io/courses/causal-inference/regression-discontinuity/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/causal-inference/regression-discontinuity/</guid>
+      <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_3_Drinking_Age_Accidents_RD.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 3 - Drinking Age Accidents RD&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;stata-code&#34;&gt;Stata Code&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_3_Regression_Discontinuity.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 3 - Regression Discontinuity&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>4. Functions</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/functions/</link>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/functions/</guid>
       <description>&lt;p&gt;Lecture 4.&lt;/p&gt;
-&lt;p&gt;November 30, 2021.&lt;/p&gt;
 &lt;p&gt;Functions&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 91 minutes video lecture, 10 minutes coding practice time.&lt;/p&gt;

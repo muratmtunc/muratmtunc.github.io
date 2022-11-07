@@ -5,7 +5,7 @@
     <link>https://muratmtunc.github.io/courses/computer-skills/</link>
       <atom:link href="https://muratmtunc.github.io/courses/computer-skills/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Skills</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - Murat M. Tunc</copyright><lastBuildDate>Sat, 02 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - Murat M. Tunc</copyright><lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://muratmtunc.github.io/media/icon_hu871abc075ca099e375a6d46bfebb63d2_43165_512x512_fill_lanczos_center_3.png</url>
       <title>Computer Skills</title>
@@ -15,10 +15,9 @@
     <item>
       <title>1. Introduction to Python</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/introduction-to-computers/</link>
-      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/introduction-to-computers/</guid>
       <description>&lt;p&gt;Lecture 1.&lt;/p&gt;
-&lt;p&gt;November 9, 2021.&lt;/p&gt;
 &lt;p&gt;Introduction to Computers, Programming, and Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 78 minutes video lecture&lt;/p&gt;
@@ -134,10 +133,9 @@ print(&amp;quot;Hello World!&amp;quot;)
     <item>
       <title>2. Elementary Programming</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/elementary-programming/</link>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/elementary-programming/</guid>
       <description>&lt;p&gt;Lecture 2.&lt;/p&gt;
-&lt;p&gt;November 16, 2021.&lt;/p&gt;
 &lt;p&gt;Elementary Programming&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 92 minutes video lecture, 20 minutes coding practice time.&lt;/p&gt;
@@ -397,10 +395,9 @@ print(&amp;quot;The result is&amp;quot;, result)
     <item>
       <title>3. Selections</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/selections/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/selections/</guid>
       <description>&lt;p&gt;Lecture 3.&lt;/p&gt;
-&lt;p&gt;November 23, 2021.&lt;/p&gt;
 &lt;p&gt;Selections&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 94 minutes video lecture, 35 minutes coding practice time.&lt;/p&gt;
@@ -741,10 +738,9 @@ else:
     <item>
       <title>4. Functions</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/functions/</link>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/functions/</guid>
       <description>&lt;p&gt;Lecture 4.&lt;/p&gt;
-&lt;p&gt;November 30, 2021.&lt;/p&gt;
 &lt;p&gt;Functions&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 91 minutes video lecture, 10 minutes coding practice time.&lt;/p&gt;
