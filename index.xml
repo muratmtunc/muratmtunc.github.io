@@ -5,7 +5,7 @@
     <link>https://muratmtunc.github.io/</link>
       <atom:link href="https://muratmtunc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Murat M. Tunc</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - Murat M. Tunc</copyright><lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - Murat M. Tunc</copyright><lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://muratmtunc.github.io/media/icon_hu871abc075ca099e375a6d46bfebb63d2_43165_512x512_fill_lanczos_center_3.png</url>
       <title>Murat M. Tunc</title>
@@ -150,6 +150,63 @@ print(&amp;quot;Hello World!&amp;quot;)
   
   &lt;li&gt;
     &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_1_Randomized_Experiment.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 1 - Randomized Experiments&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Module 4. Blockchain</title>
+      <link>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/blockchain/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/blockchain/</guid>
+      <description>&lt;p&gt;Module 4.&lt;/p&gt;
+&lt;p&gt;November 17, 2022.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 10:45 am - 12:30 pm&lt;/p&gt;
+&lt;p&gt;Blockchain.&lt;/p&gt;
+&lt;p&gt;In-person lecture at SZ 31&lt;/p&gt;
+&lt;h2 id=&#34;video-lecture&#34;&gt;Video Lecture&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/RPoNYYkRh2w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Slides_Module_4_Blockchain.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;readings&#34;&gt;Readings&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_4_Bitcoin.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 1 - Bitcoin A Peer-to-Peer Electronic Cash System&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_4_DLT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 2 - A Comprehensive Reference Model for Distributed Ledger Technology&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;feedback&#34;&gt;Feedback&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;What do you think about this lecture? Please comment below or send me an email.&lt;/a&gt;
   &lt;/li&gt;
   
   
@@ -445,73 +502,16 @@ print(&amp;quot;The result is&amp;quot;, result)
     </item>
     
     <item>
-      <title>Module 4. Blockchain</title>
-      <link>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/blockchain/</link>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/blockchain/</guid>
-      <description>&lt;p&gt;Module 4.&lt;/p&gt;
-&lt;p&gt;November 16, 2021.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 2:45 pm - 4:30 pm&lt;/p&gt;
-&lt;p&gt;Blockchain.&lt;/p&gt;
-&lt;p&gt;Hybrid lecture at CZ 121 with Zoom session&lt;/p&gt;
-&lt;h2 id=&#34;video-lecture&#34;&gt;Video Lecture&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/RPoNYYkRh2w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Slides_Module_4_Blockchain.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;readings&#34;&gt;Readings&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_4_Bitcoin.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 1 - Bitcoin A Peer-to-Peer Electronic Cash System&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_4_DLT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 2 - A Comprehensive Reference Model for Distributed Ledger Technology&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;feedback&#34;&gt;Feedback&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;What do you think about this lecture? Please comment below or send me an email.&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
       <title>Module 5. Internet of Things</title>
       <link>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/internet-of-things/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/internet-of-things/</guid>
       <description>&lt;p&gt;Module 5.&lt;/p&gt;
-&lt;p&gt;November 23, 2021.&lt;/p&gt;
+&lt;p&gt;November 24, 2022.&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 2:45 pm - 4:30 pm&lt;/p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 10:45 am - 12:30 pm&lt;/p&gt;
 &lt;p&gt;Internet of Things.&lt;/p&gt;
-&lt;p&gt;Hybrid lecture at GZ 101 with Zoom session&lt;/p&gt;
+&lt;p&gt;In-person lecture at SZ 31&lt;/p&gt;
 &lt;h2 id=&#34;video-lecture&#34;&gt;Video Lecture&lt;/h2&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -907,11 +907,11 @@ else:
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/social-network-analysis/</guid>
       <description>&lt;p&gt;Module 6.&lt;/p&gt;
-&lt;p&gt;December 1, 2021.&lt;/p&gt;
+&lt;p&gt;December 1, 2022.&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 12:45 pm - 2:30 pm&lt;/p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 10:45 am - 12:30 pm&lt;/p&gt;
 &lt;p&gt;Social Network Analysis.&lt;/p&gt;
-&lt;p&gt;Hybrid lecture at CZ 121 with Zoom session&lt;/p&gt;
+&lt;p&gt;In-person lecture at SZ 31&lt;/p&gt;
 &lt;h2 id=&#34;video-lecture&#34;&gt;Video Lecture&lt;/h2&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
