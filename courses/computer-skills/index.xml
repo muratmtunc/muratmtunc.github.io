@@ -5,7 +5,7 @@
     <link>https://muratmtunc.github.io/courses/computer-skills/</link>
       <atom:link href="https://muratmtunc.github.io/courses/computer-skills/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Skills</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - Murat M. Tunc</copyright><lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 - Murat M. Tunc</copyright><lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://muratmtunc.github.io/media/icon_hu871abc075ca099e375a6d46bfebb63d2_43165_512x512_fill_lanczos_center_3.png</url>
       <title>Computer Skills</title>
@@ -15,7 +15,7 @@
     <item>
       <title>1. Introduction to Python</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/introduction-to-computers/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/introduction-to-computers/</guid>
       <description>&lt;p&gt;Lecture 1.&lt;/p&gt;
 &lt;p&gt;Introduction to Computers, Programming, and Python.&lt;/p&gt;
@@ -133,7 +133,7 @@ print(&amp;quot;Hello World!&amp;quot;)
     <item>
       <title>2. Elementary Programming</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/elementary-programming/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/elementary-programming/</guid>
       <description>&lt;p&gt;Lecture 2.&lt;/p&gt;
 &lt;p&gt;Elementary Programming&lt;/p&gt;
@@ -395,7 +395,7 @@ print(&amp;quot;The result is&amp;quot;, result)
     <item>
       <title>3. Selections</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/selections/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/selections/</guid>
       <description>&lt;p&gt;Lecture 3.&lt;/p&gt;
 &lt;p&gt;Selections&lt;/p&gt;
@@ -692,7 +692,7 @@ else:
 &lt;p&gt;Example dialogue:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Give me a beer, please.&lt;/li&gt;
-&lt;li&gt;Can I see an ID? 6.12.2000&lt;/li&gt;
+&lt;li&gt;Can I see an ID? 6.12.2002&lt;/li&gt;
 &lt;li&gt;I’m sorry, but I cannot sell you a beer.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-24&#34;&gt;
@@ -707,7 +707,7 @@ monthOfBirth = int(input(&amp;quot;Please input the month of your birthday and p
 yearOfBirth = int(input(&amp;quot;Please input the year of your birthday and press Enter:&amp;quot;))
 
 # Step 2: Check whether the user can legally purchase beer in US
-if yearOfBirth &amp;lt; 2000 or (yearOfBirth == 2000 and monthOfBirth &amp;lt; 11) or (yearOfBirth == 2000 and monthOfBirth == 11 and dayOfBirth &amp;lt;= 23):
+if yearOfBirth &amp;lt; 2002 or (yearOfBirth == 2002 and monthOfBirth &amp;lt; 09) or (yearOfBirth == 2002 and monthOfBirth == 09 and dayOfBirth &amp;lt;= 10):
     print(&amp;quot;Here is your beer!&amp;quot;)
 else:
     print(&amp;quot;I&#39;m sorry, I cannot sell you a beer!&amp;quot;)
@@ -738,7 +738,7 @@ else:
     <item>
       <title>4. Functions</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/functions/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/functions/</guid>
       <description>&lt;p&gt;Lecture 4.&lt;/p&gt;
 &lt;p&gt;Functions&lt;/p&gt;

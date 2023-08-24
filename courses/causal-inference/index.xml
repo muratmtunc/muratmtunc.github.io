@@ -5,7 +5,7 @@
     <link>https://muratmtunc.github.io/courses/causal-inference/</link>
       <atom:link href="https://muratmtunc.github.io/courses/causal-inference/index.xml" rel="self" type="application/rss+xml" />
     <description>Causal Inference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - Murat M. Tunc</copyright><lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 - Murat M. Tunc</copyright><lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://muratmtunc.github.io/media/icon_hu871abc075ca099e375a6d46bfebb63d2_43165_512x512_fill_lanczos_center_3.png</url>
       <title>Causal Inference</title>
@@ -15,7 +15,7 @@
     <item>
       <title>1. Randomized Experiments</title>
       <link>https://muratmtunc.github.io/courses/causal-inference/randomized-experiments/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/causal-inference/randomized-experiments/</guid>
       <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
@@ -41,7 +41,7 @@
     <item>
       <title>2. Natural Experiments</title>
       <link>https://muratmtunc.github.io/courses/causal-inference/natural-experiments-did/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/causal-inference/natural-experiments-did/</guid>
       <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
@@ -67,7 +67,7 @@
     <item>
       <title>3. Regression Discontinuity</title>
       <link>https://muratmtunc.github.io/courses/causal-inference/regression-discontinuity/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/causal-inference/regression-discontinuity/</guid>
       <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
@@ -93,7 +93,7 @@
     <item>
       <title>4. Instrumental Variables</title>
       <link>https://muratmtunc.github.io/courses/causal-inference/instrumental-variables/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/causal-inference/instrumental-variables/</guid>
       <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;

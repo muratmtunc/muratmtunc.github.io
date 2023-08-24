@@ -5,7 +5,7 @@
     <link>https://muratmtunc.github.io/</link>
       <atom:link href="https://muratmtunc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Murat M. Tunc</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - Murat M. Tunc</copyright><lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 - Murat M. Tunc</copyright><lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://muratmtunc.github.io/media/icon_hu871abc075ca099e375a6d46bfebb63d2_43165_512x512_fill_lanczos_center_3.png</url>
       <title>Murat M. Tunc</title>
@@ -15,7 +15,7 @@
     <item>
       <title>1. Introduction to Python</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/introduction-to-computers/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/introduction-to-computers/</guid>
       <description>&lt;p&gt;Lecture 1.&lt;/p&gt;
 &lt;p&gt;Introduction to Computers, Programming, and Python.&lt;/p&gt;
@@ -133,7 +133,7 @@ print(&amp;quot;Hello World!&amp;quot;)
     <item>
       <title>1. Randomized Experiments</title>
       <link>https://muratmtunc.github.io/courses/causal-inference/randomized-experiments/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/causal-inference/randomized-experiments/</guid>
       <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
@@ -157,66 +157,9 @@ print(&amp;quot;Hello World!&amp;quot;)
     </item>
     
     <item>
-      <title>Module 4. Blockchain</title>
-      <link>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/blockchain/</link>
-      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/blockchain/</guid>
-      <description>&lt;p&gt;Module 4.&lt;/p&gt;
-&lt;p&gt;November 17, 2022.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 10:45 am - 12:30 pm&lt;/p&gt;
-&lt;p&gt;Blockchain.&lt;/p&gt;
-&lt;p&gt;In-person lecture at SZ 31&lt;/p&gt;
-&lt;h2 id=&#34;video-lecture&#34;&gt;Video Lecture&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/RPoNYYkRh2w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Slides_Module_4_Blockchain.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;readings&#34;&gt;Readings&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_4_Bitcoin.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 1 - Bitcoin A Peer-to-Peer Electronic Cash System&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_4_DLT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 2 - A Comprehensive Reference Model for Distributed Ledger Technology&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;feedback&#34;&gt;Feedback&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;What do you think about this lecture? Please comment below or send me an email.&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
       <title>2. Elementary Programming</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/elementary-programming/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/elementary-programming/</guid>
       <description>&lt;p&gt;Lecture 2.&lt;/p&gt;
 &lt;p&gt;Elementary Programming&lt;/p&gt;
@@ -478,7 +421,7 @@ print(&amp;quot;The result is&amp;quot;, result)
     <item>
       <title>2. Natural Experiments</title>
       <link>https://muratmtunc.github.io/courses/causal-inference/natural-experiments-did/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/causal-inference/natural-experiments-did/</guid>
       <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
@@ -502,12 +445,69 @@ print(&amp;quot;The result is&amp;quot;, result)
     </item>
     
     <item>
+      <title>Module 4. Blockchain</title>
+      <link>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/blockchain/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/blockchain/</guid>
+      <description>&lt;p&gt;Module 4.&lt;/p&gt;
+&lt;p&gt;November 17, 2023.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 10:45 am - 12:30 pm&lt;/p&gt;
+&lt;p&gt;Blockchain.&lt;/p&gt;
+&lt;p&gt;In-person lecture at SZ 31&lt;/p&gt;
+&lt;h2 id=&#34;video-lecture&#34;&gt;Video Lecture&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/RPoNYYkRh2w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Slides_Module_4_Blockchain.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Please find the slides by clicking here.&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;readings&#34;&gt;Readings&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_4_Bitcoin.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 1 - Bitcoin A Peer-to-Peer Electronic Cash System&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/BAET_Readings_Module_4_DLT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Reading 2 - A Comprehensive Reference Model for Distributed Ledger Technology&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;feedback&#34;&gt;Feedback&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;What do you think about this lecture? Please comment below or send me an email.&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Module 5. Internet of Things</title>
       <link>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/internet-of-things/</link>
-      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/internet-of-things/</guid>
       <description>&lt;p&gt;Module 5.&lt;/p&gt;
-&lt;p&gt;November 24, 2022.&lt;/p&gt;
+&lt;p&gt;November 24, 2023.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 10:45 am - 12:30 pm&lt;/p&gt;
 &lt;p&gt;Internet of Things.&lt;/p&gt;
@@ -559,9 +559,35 @@ print(&amp;quot;The result is&amp;quot;, result)
     </item>
     
     <item>
+      <title>3. Regression Discontinuity</title>
+      <link>https://muratmtunc.github.io/courses/causal-inference/regression-discontinuity/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/courses/causal-inference/regression-discontinuity/</guid>
+      <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_3_Drinking_Age_Accidents_RD.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 3 - Drinking Age Accidents RD&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;stata-code&#34;&gt;Stata Code&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_3_Regression_Discontinuity.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 3 - Regression Discontinuity&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>3. Selections</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/selections/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/selections/</guid>
       <description>&lt;p&gt;Lecture 3.&lt;/p&gt;
 &lt;p&gt;Selections&lt;/p&gt;
@@ -858,7 +884,7 @@ else:
 &lt;p&gt;Example dialogue:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Give me a beer, please.&lt;/li&gt;
-&lt;li&gt;Can I see an ID? 6.12.2000&lt;/li&gt;
+&lt;li&gt;Can I see an ID? 6.12.2002&lt;/li&gt;
 &lt;li&gt;I’m sorry, but I cannot sell you a beer.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-24&#34;&gt;
@@ -873,7 +899,7 @@ monthOfBirth = int(input(&amp;quot;Please input the month of your birthday and p
 yearOfBirth = int(input(&amp;quot;Please input the year of your birthday and press Enter:&amp;quot;))
 
 # Step 2: Check whether the user can legally purchase beer in US
-if yearOfBirth &amp;lt; 2000 or (yearOfBirth == 2000 and monthOfBirth &amp;lt; 11) or (yearOfBirth == 2000 and monthOfBirth == 11 and dayOfBirth &amp;lt;= 23):
+if yearOfBirth &amp;lt; 2002 or (yearOfBirth == 2002 and monthOfBirth &amp;lt; 09) or (yearOfBirth == 2002 and monthOfBirth == 09 and dayOfBirth &amp;lt;= 10):
     print(&amp;quot;Here is your beer!&amp;quot;)
 else:
     print(&amp;quot;I&#39;m sorry, I cannot sell you a beer!&amp;quot;)
@@ -904,10 +930,10 @@ else:
     <item>
       <title>Module 6. Social Network Analysis</title>
       <link>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/social-network-analysis/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/business-analytics-and-emerging-trends/social-network-analysis/</guid>
       <description>&lt;p&gt;Module 6.&lt;/p&gt;
-&lt;p&gt;December 1, 2022.&lt;/p&gt;
+&lt;p&gt;December 1, 2023.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 10:45 am - 12:30 pm&lt;/p&gt;
 &lt;p&gt;Social Network Analysis.&lt;/p&gt;
@@ -959,35 +985,9 @@ else:
     </item>
     
     <item>
-      <title>3. Regression Discontinuity</title>
-      <link>https://muratmtunc.github.io/courses/causal-inference/regression-discontinuity/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/courses/causal-inference/regression-discontinuity/</guid>
-      <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Dataset_3_Drinking_Age_Accidents_RD.dta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Dataset 3 - Drinking Age Accidents RD&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;stata-code&#34;&gt;Stata Code&lt;/h2&gt;
-&lt;ul class=&#34;cta-group&#34;&gt;
-  
-  &lt;li&gt;
-    &lt;a href=&#34;https://muratmtunc.github.io/uploads/Stata_Code_3_Regression_Discontinuity.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Stata Code 3 - Regression Discontinuity&lt;/a&gt;
-  &lt;/li&gt;
-  
-  
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
       <title>4. Functions</title>
       <link>https://muratmtunc.github.io/courses/computer-skills/functions/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/computer-skills/functions/</guid>
       <description>&lt;p&gt;Lecture 4.&lt;/p&gt;
 &lt;p&gt;Functions&lt;/p&gt;
@@ -1196,7 +1196,7 @@ else:
     <item>
       <title>4. Instrumental Variables</title>
       <link>https://muratmtunc.github.io/courses/causal-inference/instrumental-variables/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/courses/causal-inference/instrumental-variables/</guid>
       <description>&lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
@@ -1220,26 +1220,42 @@ else:
     </item>
     
     <item>
-      <title>Giving back to the community: Cross-platform spillover effects of donation based funding of open source contributors</title>
+      <title>Sponsorship Funding in Open-Source Software: Effort Reallocation and Spillover Effects in Knowledge-Sharing Ecosystems</title>
       <link>https://muratmtunc.github.io/publication/so-gh/</link>
-      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/publication/so-gh/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How free market entry affects market quality: Evidence from non-fungible tokens</title>
+      <title>How Do Platform Subsidies Affect Creation,  Engagement, and Pricing? Evidence from Non-Fungible Tokens</title>
       <link>https://muratmtunc.github.io/publication/lazy-minting/</link>
-      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/publication/lazy-minting/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Where Does the Money Go? Impact of Sponsorship-Based Funding on Contribution Behaviour in Knowledge-Sharing Platforms</title>
-      <link>https://muratmtunc.github.io/talk/where-does-the-money-go-impact-of-sponsorship-based-funding-on-contribution-behaviour-in-knowledge-sharing-platforms/</link>
+      <title>Resale Royalty in NFT Marketplaces: Implications for Creators and Platforms</title>
+      <link>https://muratmtunc.github.io/publication/rarible/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/rarible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Do Platform Subsidies Affect Creation, Engagement, and Pricing? Evidence from Non-Fungible Tokens</title>
+      <link>https://muratmtunc.github.io/talk/how-do-platform-subsidies-affect-creation-engagement-and-pricing-evidence-from-non-fungible-tokens/</link>
       <pubDate>Thu, 23 Jun 2022 13:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/talk/where-does-the-money-go-impact-of-sponsorship-based-funding-on-contribution-behaviour-in-knowledge-sharing-platforms/</guid>
+      <guid>https://muratmtunc.github.io/talk/how-do-platform-subsidies-affect-creation-engagement-and-pricing-evidence-from-non-fungible-tokens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sponsorship Funding in Open-Source Software: Effort Reallocation and Spillover Effects in Knowledge-Sharing Ecosystems</title>
+      <link>https://muratmtunc.github.io/talk/sponsorship-funding-in-open-source-software-effort-reallocation-and-spillover-effects-in-knowledge-sharing-ecosystems/</link>
+      <pubDate>Thu, 23 Jun 2022 13:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/talk/sponsorship-funding-in-open-source-software-effort-reallocation-and-spillover-effects-in-knowledge-sharing-ecosystems/</guid>
       <description></description>
     </item>
     
@@ -1256,14 +1272,6 @@ else:
       <link>https://muratmtunc.github.io/talk/impact-of-resale-royalty-on-sale-prices-and-market-liquidity-in-the-nft-marketplace/</link>
       <pubDate>Sat, 23 Oct 2021 13:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/talk/impact-of-resale-royalty-on-sale-prices-and-market-liquidity-in-the-nft-marketplace/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impact of Resale Royalty on Sale Prices and Market Liquidity in the NFT Marketplace</title>
-      <link>https://muratmtunc.github.io/publication/rarible/</link>
-      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/publication/rarible/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://muratmtunc.github.io/event/</link>
       <atom:link href="https://muratmtunc.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 - Murat M. Tunc</copyright><lastBuildDate>Thu, 23 Jun 2022 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 - Murat M. Tunc</copyright><lastBuildDate>Thu, 23 Jun 2022 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://muratmtunc.github.io/media/icon_hu871abc075ca099e375a6d46bfebb63d2_43165_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Where Does the Money Go? Impact of Sponsorship-Based Funding on Contribution Behaviour in Knowledge-Sharing Platforms</title>
-      <link>https://muratmtunc.github.io/talk/where-does-the-money-go-impact-of-sponsorship-based-funding-on-contribution-behaviour-in-knowledge-sharing-platforms/</link>
+      <title>How Do Platform Subsidies Affect Creation, Engagement, and Pricing? Evidence from Non-Fungible Tokens</title>
+      <link>https://muratmtunc.github.io/talk/how-do-platform-subsidies-affect-creation-engagement-and-pricing-evidence-from-non-fungible-tokens/</link>
       <pubDate>Thu, 23 Jun 2022 13:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/talk/where-does-the-money-go-impact-of-sponsorship-based-funding-on-contribution-behaviour-in-knowledge-sharing-platforms/</guid>
+      <guid>https://muratmtunc.github.io/talk/how-do-platform-subsidies-affect-creation-engagement-and-pricing-evidence-from-non-fungible-tokens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sponsorship Funding in Open-Source Software: Effort Reallocation and Spillover Effects in Knowledge-Sharing Ecosystems</title>
+      <link>https://muratmtunc.github.io/talk/sponsorship-funding-in-open-source-software-effort-reallocation-and-spillover-effects-in-knowledge-sharing-ecosystems/</link>
+      <pubDate>Thu, 23 Jun 2022 13:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/talk/sponsorship-funding-in-open-source-software-effort-reallocation-and-spillover-effects-in-knowledge-sharing-ecosystems/</guid>
       <description></description>
     </item>
     
