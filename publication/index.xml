@@ -5,7 +5,7 @@
     <link>https://muratmtunc.github.io/publication/</link>
       <atom:link href="https://muratmtunc.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 - Murat M. Tunc</copyright><lastBuildDate>Sun, 25 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - Murat M. Tunc</copyright><lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://muratmtunc.github.io/media/icon_hu871abc075ca099e375a6d46bfebb63d2_43165_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,7 +13,23 @@
     </image>
     
     <item>
-      <title>Sponsorship Funding in Open-Source Software: Effort Reallocation and Spillover Effects in Knowledge-Sharing Ecosystems</title>
+      <title>Resale Royalty in Non-Fungible Token Marketplaces: Blessing or Burden for Creators and Platforms?</title>
+      <link>https://muratmtunc.github.io/publication/rarible/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/rarible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Market Consequences of Perceived Strategic Generosity: An Empirical Examination of NFT Charity Fundraisers</title>
+      <link>https://muratmtunc.github.io/publication/charity-nft/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://muratmtunc.github.io/publication/charity-nft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sponsorship Funding in Open-Source Software: Incentivize or Crowd-Out Motivations to Create, Maintain and Share?</title>
       <link>https://muratmtunc.github.io/publication/so-gh/</link>
       <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/publication/so-gh/</guid>
@@ -25,14 +41,6 @@
       <link>https://muratmtunc.github.io/publication/lazy-minting/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/publication/lazy-minting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resale Royalty in NFT Marketplaces: Implications for Creators and Platforms</title>
-      <link>https://muratmtunc.github.io/publication/rarible/</link>
-      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/publication/rarible/</guid>
       <description></description>
     </item>
     
