@@ -1244,14 +1244,6 @@ else:
     </item>
     
     <item>
-      <title>The Market Consequences of Perceived Strategic Generosity</title>
-      <link>https://muratmtunc.github.io/talk/the-market-consequences-of-perceived-strategic-generosity/</link>
-      <pubDate>Thu, 09 Mar 2023 13:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/talk/the-market-consequences-of-perceived-strategic-generosity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>How Do Platform Subsidies Affect Creation,  Engagement, and Pricing? Evidence from Non-Fungible Tokens</title>
       <link>https://muratmtunc.github.io/publication/lazy-minting/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
@@ -1260,34 +1252,10 @@ else:
     </item>
     
     <item>
-      <title>How Do Platform Subsidies Affect Creation, Engagement, and Pricing? Evidence from Non-Fungible Tokens</title>
-      <link>https://muratmtunc.github.io/talk/how-do-platform-subsidies-affect-creation-engagement-and-pricing-evidence-from-non-fungible-tokens/</link>
-      <pubDate>Thu, 23 Jun 2022 13:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/talk/how-do-platform-subsidies-affect-creation-engagement-and-pricing-evidence-from-non-fungible-tokens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sponsorship Funding in Open-Source Software: Incentivize or Crowd-Out Motivations to Create, Maintain and Share?</title>
-      <link>https://muratmtunc.github.io/talk/sponsorship-funding-in-open-source-software-incentivize-or-crowd-out-motivations-to-create-maintain-and-share/</link>
-      <pubDate>Thu, 23 Jun 2022 13:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/talk/sponsorship-funding-in-open-source-software-incentivize-or-crowd-out-motivations-to-create-maintain-and-share/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Online Product Reviews: Is a Finer-Grained Rating Scheme Superior to a Coarser One?</title>
       <link>https://muratmtunc.github.io/publication/md-vs-sd/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://muratmtunc.github.io/publication/md-vs-sd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resale Royalty in Non-Fungible Token Marketplaces: Blessing or Burden for Creators and Platforms?</title>
-      <link>https://muratmtunc.github.io/talk/resale-royalty-in-non-fungible-token-marketplaces-blessing-or-burden-for-creators-and-platforms/</link>
-      <pubDate>Sat, 23 Oct 2021 13:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/talk/resale-royalty-in-non-fungible-token-marketplaces-blessing-or-burden-for-creators-and-platforms/</guid>
       <description></description>
     </item>
     
@@ -1305,56 +1273,6 @@ else:
 
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
----&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Two-sided Adverse Selection and Bilateral Reviews in the Sharing Economy</title>
-      <link>https://muratmtunc.github.io/talk/two-sided-adverse-selection-and-bilateral-reviews-in-the-sharing-economy/</link>
-      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/talk/two-sided-adverse-selection-and-bilateral-reviews-in-the-sharing-economy/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
----&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Single-dimensional versus Multi-dimensional Online Ratings</title>
-      <link>https://muratmtunc.github.io/talk/single-dimensional-versus-multi-dimensional-online-ratings/</link>
-      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://muratmtunc.github.io/talk/single-dimensional-versus-multi-dimensional-online-ratings/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
 ---&gt;&lt;blockquote&gt;
 &lt;/blockquote&gt;
 </description>
